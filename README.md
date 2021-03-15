@@ -8,4 +8,9 @@ This is the capstone project of [IBM Data Science Professional Certificate in Co
 
 **Files in this repository**:
 * *Report.pdf* – full report of the work
+* *DS_CP_Community.ipynb* - project notebook
+* *Presentation.pdf* - project presentation
+* *chicago_artVenuesLikes78CA.csv* - foursquare data - art & entertainment venues in Chicago
+* *chicago_foodVenuesLikes78CA.csv* - foursquare data - art & entertainment venues in Chicago
+* *ChicagoCommunities.csv* - Chicago community areas and their longitude and latitude
 
