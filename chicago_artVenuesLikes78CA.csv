@@ -1,0 +1,2435 @@
+foodCategory,community_areas,venue_id,likes
+Zoo Exhibit,Edgewater,59bde5da112c6c4420e6855b,0
+Zoo Exhibit,Washington Park,4df7fd0e091a16724ce23bd2,1
+Zoo Exhibit,McKinley Park,4eb392a6775b544c2679d255,0
+Zoo,Hegewisch,5b3819b4d48ec1002cd35dac,1
+Yoga Studio,Near North Side,4b6dbf32f964a520f58b2ce3,2
+Water Park,Belmont Cragin,519ede18498e9f35db56b2af,0
+Water Park,Lincoln Square,4faac8ebe4b0381a4889e24b,0
+Water Park,Garfield Ridge,51cf548f498ea981b46c7150,0
+Water Park,Avondale,4bffffb3369476b037ac8e1f,0
+Water Park,Kenwood,5216bf5611d2f480bbb13396,0
+Water Park,Rogers Park,4ec84fd0f5b9e8819393409d,0
+Water Park,Uptown,4e58de8318388cd5cb9ace28,3
+Water Park,Forest Glen,4ec03f536da15b4ddf3a9460,0
+Water Park,West Town,4ce97a8afe90a35dabb6480e,0
+Water Park,West Town,4dc4a79918387d1bd529d815,0
+Water Park,Lincoln Square,4e3ccb22d164b52911a4fe97,0
+Water Park,Lincoln Park,53d3037c498e98513a7cfbac,2
+Water Park,Lincoln Park,53996247498e1b0751cc1036,0
+Water Park,Forest Glen,4fff51bde4b0a816c6f870c7,0
+Water Park,Irving Park,52169092498efbd0a720d46c,1
+Water Park,Montclare,4fca17dee4b0f5988740b5e5,0
+Water Park,Belmont Cragin,4dbd83c2815439392fb0b1f4,1
+Water Park,Avondale,5968fdaf1fa763356713cf68,0
+Water Park,Chatham,4fe782b9e4b005c24e8b34c4,0
+Travel,Near South Side,4ded40b0814d56e3082fe12a,19
+Tour Provider,Albany Park,5d98babef006540008634edb,0
+Tour Provider,Albany Park,4bd9ed640ef39c742da11d2d,10
+Tour Provider,Douglas,5b81daae1f8ed6002cbda9d8,32
+Tour Provider,Lake View,4f58f995e5e8b03c1f1f97d7,1
+Tour Provider,Austin,5b5e1b46345cbe002c23f86b,0
+Tour Provider,Brighton Park,51fd0da2498e4002401d0b4f,1
+Theme Park,Douglas,4fe55852e4b01b7b6b9c0a43,0
+Theme Park,Logan Square,4ed676316c25b696b4de4f02,0
+Theme Park,Dunning,4e17be201f6eb9559873af2b,0
+Theme Park,Edison Park,4d813773208a54812e728367,0
+Theme Park,Logan Square,4e4dcfea45ddff0031a9f581,0
+Theme Park,Logan Square,509f3b02e4b005ec00b1e377,2
+Theme Park,Near North Side,5369180c498e34d9de8447df,16
+Theme Park,Uptown,4e1fbca1ae6015b21294b5f7,2
+Theme Park,Irving Park,4f56315b7b0ca24d3568738a,0
+Theme Park,Lake View,50c2789ce4b0bde4a8827e32,0
+Theme Park,West Town,4c3e88920e0d0f4778c8157f,0
+Theme Park,Lincoln Park,4c02d6ab39d476b0e1432fa7,0
+Theme Park,Lincoln Park,4c5629fafb5aa5930174407f,0
+Theme Park,North Center,4fbda0f7e4b0020ade4ebea2,0
+Theme Park,West Town,50f112a7e4b06fac798a35b7,0
+Theme Park,West Town,4fd36027e4b0a1f006af6247,0
+Theme Park,Washington Park,4f0b64c9e4b0540ca51a47e4,0
+Theme Park,Near West Side,50b13d29e4b08847db8d6503,0
+Theme Park,Rogers Park,4e5b1a8fb99373257a000ff9,0
+Theme Park,Lincoln Park,5617c4ee498e544a45e8dedc,1
+Theme Park,Norwood Park,55d8c8cd498eb815b0402b3d,1
+Theme Park,Forest Glen,4dc0dd677d8bf48713b5e078,0
+Theme Park,Belmont Cragin,4fc809b3e4b059f599129eeb,0
+Theme Park,Avondale,4f26dff9e4b0d10db2df58a8,2
+Theme Park,Humboldt Park,4fc92991e4b01d030bcb1bef,0
+Theme Park,North Lawndale,4dbda8040cb691071cbf0b42,2
+Theme Park,Washington Park,5040d470e4b0f7ca2bb271a4,0
+Theme Park,Roseland,51e10b5f498ed6f7a4e23358,0
+Theme Park,Pullman,4e232505a80968cf3e511945,0
+Theme Park,Chicago Lawn,509f9924e4b0c4d83cac057d,0
+Theme Park,Beverly,4fda99bde4b0d1917d3dbe47,0
+Theme Park,Beverly,4e80bbf410812dd7061c7708,0
+Theme Park,Morgan Park,4f8a1b27e4b0af4d4e90d094,0
+Theater,Albany Park,508cc08ae4b08e7b43cd7b70,0
+Theater,Edgewater,4e8f9d7cdab46521c0bf66fa,1
+Theater,Edgewater,54c6ad16498e205c48b7cb49,27
+Theater,Edgewater,4f9c89ebe4b05e5ed7f403a9,0
+Theater,Edgewater,4b9af099f964a52026e535e3,4
+Theater,Armour Square,4f85d858e4b0d19a2f3fb679,0
+Theater,Armour Square,4fb59e34e4b037516fa0dc07,2
+Theater,Armour Square,4d7bc82eea35236ac85d4c23,0
+Theater,Armour Square,4b12d31ef964a520e28e23e3,34
+Theater,Belmont Cragin,4abd7a47f964a520918a20e3,226
+Theater,Lincoln Square,4e63a7beb61cd780891381af,0
+Theater,Lincoln Square,4d8f6f46fa94370446791ac6,0
+Theater,Uptown,4b4fca7af964a520871527e3,19
+Theater,Uptown,4a8c9585f964a5209a0e20e3,2
+Theater,Uptown,59a6fc496fa81f70f0dc4b5e,0
+Theater,Near North Side,4fc258f6e4b099ce17771b00,1
+Theater,Uptown,4dfa6ea4b0fb0401c7f84f89,0
+Theater,Clearing,4df40c5418a88611c6bef34d,0
+Theater,Near South Side,4bd38e4441b9ef3b9b8500e6,1
+Theater,Near South Side,4f9341a4e4b01cffa193d847,0
+Theater,Near South Side,5165ee71e4b02c4aa3053831,0
+Theater,Edgewater,4b1c2ee4f964a520c40324e3,13
+Theater,Edgewater,4b5cdd6df964a5202b4829e3,2
+Theater,Edgewater,5c868ab55c6838002c16a2c3,1
+Theater,Edgewater,4ea8cbbfb8f7d2a5219facab,0
+Theater,Edgewater,56cb285b498e30a8ed56a198,6
+Theater,Edgewater,5112a0cbe4b0874ae8db2657,2
+Theater,Edgewater,4b4e82bff964a52013f026e3,29
+Theater,Edison Park,4ea4796a4690104bb46bede9,0
+Theater,Edison Park,539d0bb8498e08a9ddc29b3c,7
+Theater,Douglas,4a8dd66df964a520131120e3,68
+Theater,Near North Side,51a162ee498edfa8257c0936,2
+Theater,Near North Side,5ae3d96f65211f0039e0265c,3
+Theater,Near North Side,5e16a22618f322000830dc18,1
+Theater,Lake View,4ebc7f1df5b9e505b7a59948,0
+Theater,Lake View,5ade5a9ce96d0c216ea53c44,1
+Theater,Grand Boulevard,4aa05f40f964a520643f20e3,1084
+Theater,Lower West Side,4c1d9168fcf8c9b64d16ac0b,1
+Theater,North Lawndale,4db242654b220b5fbafed186,3
+Theater,North Lawndale,4ce2a9a094c3b60cc9517dea,0
+Theater,Hyde Park,4f68a0aae4b0173dd51f82be,1
+Theater,Avondale,4d92492cf4992c0f1ce48797,0
+Theater,Avondale,5302a302498ed635465cc170,0
+Theater,Jefferson Park,4b6339a1f964a520db6b2ae3,8
+Theater,Jefferson Park,5219332611d2f5c536a5e79b,0
+Theater,Jefferson Park,521ff58a498e036246dbbd9d,0
+Theater,Hermosa,4f11d504e4b0042054cf7b7e,4
+Theater,Kenwood,4b6e3947f964a520b6b22ce3,1
+Theater,Kenwood,4ad913a7f964a520dd1721e3,26
+Theater,Lake View,4a7ccf53f964a520b8ed1fe3,445
+Theater,Lake View,5944dae72be4250e31d3cd8b,0
+Theater,Lake View,4b021e6ef964a520da4722e3,136
+Theater,Lake View,4b284c70f964a5202f9224e3,479
+Theater,Lincoln Square,5a1230ab018cbb6a21ddd594,0
+Theater,Near West Side,5062fc08e4b0b8d63d96e80b,6
+Theater,Near West Side,4be584227e2a76b0b2cd1c9b,6
+Theater,Logan Square,4ec3fa9d99119e3a0ad86069,0
+Theater,Rogers Park,506e423de4b04f474753b0a6,1
+Theater,Uptown,4bfa17f15317a5939a46027f,0
+Theater,Uptown,5036e3624c7f80bdde364f8d,1
+Theater,Uptown,4dea5548b0fb8293f7d13dc6,0
+Theater,Uptown,5025c2c4e4b031f7a19b5964,0
+Theater,South Lawndale,4cdf30e5825e721e8e626f45,2
+Theater,Near South Side,52327ca511d2e60f470a0a31,6
+Theater,New City,5e52e2819544a60008f3a540,0
+Theater,New City,4ea84bd1f7903beac0d97166,0
+Theater,New City,50c28f19e4b0dee54255c953,20
+Theater,New City,4e9650838b811f0c6634e75d,0
+Theater,New City,50b7f0d2e4b09ef2d74d7451,0
+Theater,New City,4b240297f964a520055f24e3,293
+Theater,North Center,4baa7799f964a520cb6c3ae3,0
+Theater,Lake View,50b8f039e4b0fa375af56630,0
+Theater,Lake View,4fb5d09ff690b254ce869b76,0
+Theater,Lake View,4e505b76d164978659d88182,0
+Theater,Logan Square,52642c32498e9055b19e051f,0
+Theater,Greater Grand Crossing,4ff63765e4b048eef7600a85,0
+Theater,Avondale,4ae26b0af964a5202d8e21e3,0
+Theater,Avondale,506860dae4b02149dff56dfa,1
+Theater,Avondale,4a6bbbeaf964a520cecf1fe3,51
+Theater,Near South Side,5aa55c2e2aff315e09d9cfae,0
+Theater,Near South Side,4f652757e4b0aa8f67c83006,0
+Theater,Near South Side,4f3feb70e4b0ae0655a1e3c9,0
+Theater,Loop,4ae786a5f964a52019ac21e3,362
+Theater,Loop,50478b21e4b046ea950fd7de,0
+Theater,Loop,4f2d7907e4b0d337d3f14be4,0
+Theater,West Town,4e4efa801f6eae4d2514166e,0
+Theater,Lincoln Park,503d148be4b0188aa3fbc32c,0
+Theater,Lincoln Square,4c1e5017eac020a1837b49c2,1
+Theater,Lincoln Square,4c376f7e1e06d13a5aef753e,47
+Theater,Lincoln Square,5302b60f498ea8326856072d,0
+Theater,Lincoln Square,50e8438fe4b06559cf3a9a52,0
+Theater,Lincoln Square,4ef0a5daf790ec1293878334,0
+Theater,Lincoln Square,51281bcce4b038697f21a2b1,0
+Theater,Lincoln Square,4cf439e188de3704d7a6832b,0
+Theater,Lincoln Square,521e8f7e11d26320b3f3a041,0
+Theater,Lincoln Square,5aa34f4b840fc27488e9d357,0
+Theater,West Town,4eab439a30f823f86e3da543,1
+Theater,Rogers Park,57229ebf498ed29770a22e8b,0
+Theater,North Center,4e263536628436bf4d66d22c,0
+Theater,North Center,510b12b9e4b032fae0d25e02,0
+Theater,North Center,4bdcaa182a3a0f47a7dbb3b6,1
+Theater,Uptown,4ba430cef964a520848a38e3,5
+Theater,Uptown,50cbf0bbe4b06f07d16a2e1e,0
+Theater,Armour Square,4e218e3645dd950bb025ddc0,0
+Theater,West Lawn,4de81392d1648c97962a3ceb,69
+Theater,Near West Side,4f7b948ae4b0d1da884ce5ca,0
+Theater,Woodlawn,4d854eac81fdb1f7e39b0fc0,2
+Theater,Forest Glen,5262e49411d208f71415b563,3
+Theater,Rogers Park,570854cd498efb0eb6420605,1
+Theater,Rogers Park,5275bcc111d2ec02dc5acc4a,0
+Theater,Rogers Park,4f6faa6be4b0221c2e276c6a,0
+Theater,Rogers Park,4afe1044f964a520962d22e3,32
+Theater,Rogers Park,4bbfcad8b492d13a2f58a360,6
+Theater,Uptown,57e6a325498e436d8d3692e4,0
+Theater,Uptown,4b6e4121f964a52079b42ce3,9
+Theater,Lincoln Square,57a6727f498e3ebd843f27d6,1
+Theater,North Center,4f60a573e4b0aee014978e04,6
+Theater,North Center,4b6cc97df964a52061542ce3,95
+Theater,Lincoln Park,4dfdfd79d22d879302fa651a,0
+Theater,Near North Side,4aa05693f964a5202f3f20e3,442
+Theater,Jefferson Park,5c8c350bcd441c002cb71fbf,0
+Theater,Jefferson Park,4cba22ea4352a1cd892b91f5,0
+Theater,Forest Glen,5026cbd7e4b0fe423d800140,0
+Theater,North Park,4bb7fd5098c7ef3b02b13002,1
+Theater,North Park,4f458457e4b05a78af3821d9,0
+Theater,Portage Park,4e556d2f2271abb4407c1698,0
+Theater,Portage Park,5070877ee4b0513ffd2068e1,4
+Theater,Irving Park,4b5ba902f964a5204d0e29e3,0
+Theater,Irving Park,4ba2cdb8f964a520861a38e3,0
+Theater,Dunning,4d5c6cfa6ab42c0fe2000345,0
+Theater,Montclare,52106292498ef437075cdb2b,0
+Theater,Belmont Cragin,53a8c421498eeab376e93dd6,0
+Theater,Belmont Cragin,4f90b39fe4b06a3a4bdc2905,1
+Theater,Logan Square,4da7a4a86a2364c7a3435967,2
+Theater,West Town,4f7f8e89e4b00084d98644d2,0
+Theater,West Town,4eb5d7840aaf1abedf7fadbe,0
+Theater,West Garfield Park,533774f9498e0f514e522b21,0
+Theater,Kenwood,4b6cca0af964a52090542ce3,66
+Theater,Woodlawn,543b0cfc498ead5eaf2413a4,0
+Theater,Woodlawn,506780fbe4b05564fbca103b,0
+Theater,Garfield Ridge,5cb520714a7aae002c9760ca,1
+Theater,Archer Heights,50c7c686e4b0f0226425ddd2,0
+Theater,New City,4e2773288877f9158a6b9e6b,0
+Theater,Mount Greenwood,4d98eb05e07ea35d78e1fd02,0
+Theater,OHare,4aea3bdbf964a52069ba21e3,143
+Theater,Edgewater,4de2a90cae60e7f3abf54731,0
+Theater,Edgewater,4d85610f7e8ef04d955020be,0
+Theater,Lower West Side,4dfa230018a8ab1870bd1dd5,0
+Tennis,Washington Heights,5097fe86e4b0f94e061fb680,0
+Tech Startup,Lincoln Square,4a6a8c3df964a520b8cd1fe3,3
+Tattoo,Uptown,4bc133bdabf49521cbc7c093,16
+Tattoo,Ashburn,4fd8f24ce4b06452aa1bb0f1,1
+Strip Club,New City,53b498ab498e3c01b540a841,0
+Street Art,Edgewater,542714f3498eabdbcf8665c0,0
+Street Art,New City,544be2ef498e5b1f7ac47b96,0
+Street Art,Lincoln Park,5db600c8a05e0a00070f165b,0
+Street Art,Lincoln Park,55f59845498e1449d7e4b756,10
+Street Art,West Town,548387df498e36974b870b5a,0
+Street Art,Uptown,5f2c971b7150dc431d1232c6,0
+Street Art,South Lawndale,55739b07498e3cef8ee4d9d7,0
+Stadium,Armour Square,4ed5506ebe7b276c6050fcbb,0
+Stadium,Lincoln Square,4bc0dd48461576b0d3ed7a32,1
+Stadium,Douglas,596ebf6aa92d98040be676a6,0
+Stadium,Riverdale,40f5c900f964a520a00a1fe3,4033
+Stadium,Riverdale,5b35a2972f97ec003966e70d,0
+Stadium,Riverdale,4b6a059ef964a52064c22be3,27
+Stadium,Kenwood,4f2c1993e4b0de35533cd5c0,0
+Stadium,Lincoln Square,4ff24c78e4b0365ccbda73b1,1
+Stadium,Uptown,4a3d70c9f964a52046a21fe3,106
+Stadium,Uptown,4dd70109d1647fcf3e404f82,0
+Stadium,Uptown,4c549f08fd2ea5931bce602a,8
+Stadium,Lake View,5935daab8c812a366c8e9559,1
+Stadium,Lincoln Square,4b487799f964a520c64d26e3,2
+Stadium,West Garfield Park,4ce99bd2fe90a35de06e490e,2
+Sports Club,Lake View,5acf98749ba3e5189f5ea30e,6
+Sports Club,Lake View,5cafdb950868a2002cdf2b41,0
+Sports Bar,Near North Side,4b0763a5f964a52003fd22e3,0
+Sports Bar,Near North Side,4b4819bdf964a5203d4826e3,214
+Sports Bar,Lake View,40b28c80f964a520fdfb1ee3,272
+Sports Bar,Mount Greenwood,4a31f192f964a520329a1fe3,176
+Spiritual,West Ridge,4cdde16cc4985941fb8a4135,2
+Speakeasy,Armour Square,4c66092bb80abe9a743dcce5,9
+Speakeasy,West Lawn,5407cffd498e848675970c41,58
+Southern / Soul,Belmont Cragin,4a6fc096f964a520f3d61fe3,124
+Soccer,McKinley Park,4b46a497f964a520202626e3,25
+Skate Park,Hyde Park,5b787e6ba4ba7c003958f28e,0
+Sculpture,Albany Park,4d596f0f24466ea85b7c779f,10
+Sculpture,Armour Square,4ea31d6cd3e32e6868471303,1
+Sculpture,Near South Side,4bc7af152f94d13adf76127f,68
+Science Museum,Lincoln Square,54ce931b498eee280be67e36,1
+Science Museum,West Town,50dddc4de4b0fe5bbf19673d,3
+Science Museum,West Town,4eb8069c775b544c28614239,29
+Science Museum,Near North Side,4b20014ef964a520032c24e3,57
+Science Museum,Lake View,5088533cf470303f20266236,0
+Science Museum,West Town,5088533cf470303f20266239,0
+Science Museum,Loop,590b9091b1ec1359a6037822,0
+Science Museum,Loop,590b6dfde65d0c07883b604a,1
+Science Museum,Lincoln Park,505a4c34e4b080fca89a41b3,0
+Science Museum,Lincoln Park,4a763350f964a52092e21fe3,188
+Science Museum,Armour Square,50afbb67e4b0a74d349e3d90,1
+Science Museum,Armour Square,583885c6c0df761f5c6f2b49,0
+Science Museum,Armour Square,50db3a36e4b0275bf21f1978,2
+Science Museum,Armour Square,50fc540ae4b064cc8aaea285,9
+Science Museum,Armour Square,4ebd82c4722e45315e55fbe4,3
+Science Museum,Armour Square,4fb7f6d3e4b0bcc8b14c667a,7
+Science Museum,Armour Square,533dd9fc11d23a1bb12aa811,4
+Science Museum,Armour Square,4f89df9be4b0ddfd82aca0a6,7
+Science Museum,Armour Square,50fc573fe4b02fe3144cde9c,2
+Science Museum,Armour Square,4ecbbc7ce5fab5d2b3a45779,7
+Science Museum,Armour Square,51447aa0e4b071f0e24150ab,1
+Science Museum,Armour Square,4df7c40c2271d8baf9c4e6a7,16
+Science Museum,Armour Square,42eeb780f964a520b4261fe3,1903
+Science Museum,Hyde Park,53d3d0e4498e572d75fc8eac,0
+Science Museum,Hyde Park,516b148de4b0ddf3be6e2430,2
+School,Lake View,4ccc5b2a7c2ff04d49a8987e,0
+School,Lake View,4bf8021c8d30d13ab6e3ff17,5
+School,Lincoln Square,53307d0f498e2ae05d4384bd,0
+Scenic Lookout,Uptown,4bb43fd90cbcef3beada582a,1
+Salsa Club,Lincoln Square,5636b1c4498eea6979582f57,0
+Salsa Club,Edison Park,542f34a4498eec433814dfc9,0
+Salon / Barbershop,Lincoln Square,4bfc4903f4dc9c74ad979e3f,17
+Roller Rink,McKinley Park,56d2668fcd1004ac3482f907,0
+Roller Rink,North Park,59be9e5f135b3922e982423f,0
+Roller Rink,Armour Square,53a9b39b498e7499e3b620ea,0
+Rock Club,Albany Park,4bf280341cd9d13af6b2ed76,0
+Rock Club,Belmont Cragin,51b164e67dd249ae70da1fe5,1
+Rock Club,Lincoln Square,4d6efd605b5ca1cd11976644,0
+Rock Club,Lincoln Square,50a6bd1ee4b093d37f4a309b,0
+Rock Club,Logan Square,41102700f964a520d10b1fe3,209
+Rock Club,Armour Square,4a874193f964a5207d0320e3,248
+Rock Club,Lower West Side,4b6cfef5f964a52026622ce3,235
+Rock Club,Lower West Side,4e2787b7e4cd6c6cb33e4653,0
+Rock Club,Gage Park,545edeed498eff19f829efab,0
+Rock Club,Belmont Cragin,4f612279e4b02da1e01d32f0,0
+Rock Club,Lower West Side,4eb08f2930f855c20ed682f3,0
+Rock Club,Humboldt Park,4ca253541ee76dcb17abefdd,0
+Rock Club,Avondale,50b5ad9fe4b0a4380b456793,0
+Rock Club,Avondale,4f332baee4b0a74999d7fa52,1
+Rock Club,Avondale,4bedd42350669c74396a48fb,0
+Rock Club,Hermosa,4e7fdfe06c259cc1d0effc05,0
+Rock Club,Logan Square,5165d8e3e4b0eba7a091754a,2
+Rock Club,Rogers Park,4bd8e70c2e6f0f4725270908,0
+Rock Club,Mount Greenwood,527bd86f11d2f132ec1e0c59,0
+Rock Club,Loop,4e1647cbaeb7e76b4f1cdc72,1
+Rock Club,Austin,518d4416e4b04d8b089b25ae,6
+Rock Club,Lake View,4f5eb2f9e4b01b0f49d55a3e,0
+Rock Club,West Ridge,40b28c80f964a52017fd1ee3,196
+Rock Club,Norwood Park,4cb4df9256fca1cdacdd4a18,1
+Rock Club,Ashburn,4e1ccb48a80980ebf5a57be8,0
+Rock Club,Avondale,4cde3b53aba88cfab79340d7,0
+Rock Club,Lincoln Square,4da5f2481e726e49696759d3,0
+Rock Club,Lincoln Square,4eff8660775bec6b43c8bb98,0
+Rock Club,Rogers Park,4eee0a140e61a41865d67db6,0
+Rock Club,Rogers Park,4dc6bcad45dd264552909778,0
+Rock Club,Uptown,4d3b755781258cfa6df4b15f,1
+Rock Club,West Town,41083e00f964a520930b1fe3,0
+Rock Club,Near West Side,4e759e27fa76059701181457,0
+Rock Club,West Town,4e851e7e93adb83ef9690122,0
+Rock Club,West Town,54d2ca5d498ea61904ed0d36,0
+Rock Club,West Town,4f8dfeb7e4b018d8f5eefd65,0
+Rock Club,Uptown,40b28c80f964a52074fe1ee3,0
+Rock Club,Uptown,4eeec398e30021559501c936,0
+Rock Club,Edison Park,50e865aae4b07cd23ed90f6c,0
+Rock Club,Montclare,4f90adcee4b0655201d4c1ad,0
+Rock Club,Hermosa,522fc5f5498e611d629966e1,0
+Rock Club,Avondale,4f384c3fe4b00d9f9706cdf5,1
+Rock Club,Logan Square,51481112e4b09ae406c867ce,2
+Rock Club,Humboldt Park,4d3ba3466e0aa1cd77b5db2c,1
+Rock Club,Humboldt Park,4c94e50803413704ed3776ef,0
+Rock Club,North Lawndale,507a48f6e4b0249cc7a08ba6,0
+Rock Club,North Lawndale,507a48a6e4b05b62b391fb33,1
+Rock Club,North Lawndale,53253352498e54640e44d71b,1
+Rock Club,Fuller Park,4e25ffdce4cd0a7ea91ccd79,0
+Rock Club,Fuller Park,4fca8718e4b02cfd2d2775b0,1
+Rock Club,Ashburn,50b2d79de4b0e2dfe823849d,0
+Rock Club,OHare,5081dc59e4b0d2d663406c56,0
+Rock Club,Lower West Side,4fe641d9e4b09df1e8af3ffb,0
+Restaurant,Albany Park,4f88a48be4b0e6f347cfe5b9,592
+Restaurant,Near South Side,5cec80dea2c00b002ce89e26,2
+Residential,Loop,50831aff498e54db9decd26a,1
+Recording Studio,Hermosa,56ad16a838fa86e54557ad89,1
+Rec Center,Douglas,4b75ffddf964a52083352ee3,8
+Radio Station,North Park,5184c004498eba38fefabdc7,2
+Radio Station,Lincoln Square,4b62296af964a5205e392ae3,8
+Racetrack,Belmont Cragin,4db5b5926e8179a913955f47,0
+Racetrack,Near North Side,57b71c5b38fad2c42e3523be,0
+Racetrack,Near North Side,4bdc804d3904a59334794e9e,0
+Racetrack,West Town,515f3ef2e4b0bed0af39fb83,0
+Racetrack,OHare,4fd5ef47e4b021197a0e3ba9,0
+Racetrack,Pullman,58004152d67c029582e8a5d9,1
+Racetrack,South Deering,4d958c4f2bd6f04d3cbc2050,0
+Public Art,Albany Park,5c0337bdecb3ed00252a5626,3
+Public Art,Edgewater,50afb5b0e4b07ba2ce202ba5,0
+Public Art,Armour Square,51d976c5498e43667a2f1607,1
+Public Art,Near North Side,50e2731ae4b09f5e9ba35cff,1
+Public Art,Near North Side,51fae563498e58fcd7cd7996,0
+Public Art,Armour Square,4e63955ed164ddd5e640710a,2
+Public Art,Uptown,533c5e8311d26b68de0d1558,1
+Public Art,Near South Side,509d1215e4b0548c5bd51819,0
+Public Art,East Garfield Park,51b0f77f498ebc8449ae88aa,10
+Public Art,Lower West Side,52fd40c211d28c7d05f54dd8,0
+Public Art,Lower West Side,5312a538498e4af33f05545f,0
+Public Art,Edgewater,557cf98e498e6ddf790c8c14,0
+Public Art,Edgewater,51267b6ce4b0dda4cca4ef28,0
+Public Art,Edgewater,5289cbeb498e568aac97df5b,1
+Public Art,Avondale,52942366498e949705215a48,0
+Public Art,Lake View,4c16b86b5e88c92864972466,12
+Public Art,Lake View,4b9ebfd7f964a520ccfe36e3,83
+Public Art,Lincoln Park,4e6e8ae7d4c0caa1083e7ae2,10
+Public Art,Lincoln Square,5d7e692f77300700081cc5b8,0
+Public Art,Logan Square,51ce2f73498e2beb955737db,0
+Public Art,Logan Square,51e1f3b4498ed9e331996f37,1
+Public Art,Loop,4b2be43df964a52025bd24e3,83
+Public Art,Uptown,4d66ff6b58ee8eec12b96227,2
+Public Art,McKinley Park,50f77a77e4b096f5bc9af413,0
+Public Art,Near South Side,4c424de2ce54e21e1c840c1a,32
+Public Art,Lake View,51f55569498e3d7f916ef3ea,0
+Public Art,Portage Park,523f32a2498ef93347ee931e,0
+Public Art,Lincoln Square,53251e5c498e50342fa55015,0
+Public Art,West Ridge,518a45ea498e5f3df15b1bda,8
+Public Art,Lincoln Park,5a1885648a6f170c899af0b5,0
+Public Art,North Park,51bc5764498ef5783db819d7,1
+Public Art,Irving Park,525d836d498e3a224c71d0b2,1
+Public Art,Hermosa,5285332911d21abd4e5244f2,1
+Public Art,Avondale,51f30c35498e5d8eb053765e,1
+Public Art,Humboldt Park,51b4ff8b498e1158a7003157,0
+Public Art,West Garfield Park,52dcd4ee11d29aa41385136c,1
+Public Art,West Garfield Park,51b4863150190ab2c67b5bf2,0
+Public Art,South Lawndale,52fd3fec498ef77131b12e9e,0
+Public Art,Armour Square,50d37bf6e4b06a9835d7343a,0
+Public Art,Douglas,56d771cacd109bf6fa928f19,5
+Public Art,Hyde Park,5952cd1682a750464cb4a6a3,0
+Public Art,Brighton Park,512acc41e4b0b3536b33bb24,1
+Public Art,McKinley Park,4dd43c2bd22d8e00fcc50c98,6
+Public Art,Bridgeport,51314ac3e4b0835c5cfaad18,5
+Public Art,Bridgeport,51689f0be4b0b3c9796aff41,1
+Public Art,Beverly,56101285498ee6bcbc11933c,0
+Pop-Up Shop,Near North Side,5dd198bd83424d0008b69573,1
+Plaza,Edison Park,4c0fd7a53ce120a1751d071c,13
+Planetarium,Edgewater,4ee2d217490138df8ba72e6a,0
+Planetarium,North Center,4f5b8448e4b01014b9df54b0,12
+Planetarium,North Center,500f0eb0e4b04e4dccc59d69,11
+Planetarium,North Center,4f4fdfd7e4b0db3298a43c14,20
+Planetarium,North Center,43616a00f964a52038291fe3,1111
+Planetarium,North Park,4e1d1b4962e1f8a446cb9cef,0
+Planetarium,North Park,4f1f7848e4b09603a418dbb4,0
+Planetarium,Hyde Park,4f60b282e4b0f16f28ef44aa,1
+Pizza,Near North Side,4bb9009e314e9521a507499d,1
+Piano Bar,Albany Park,41818800f964a520dc1d1fe3,337
+Piano Bar,Belmont Cragin,509a653ee4b06b5169b0e283,0
+Piano Bar,Belmont Cragin,51adf455498e336413a97809,0
+Piano Bar,Douglas,40b28c80f964a520c4fb1ee3,138
+Piano Bar,North Park,4ec2f99bb8f7042c4939eb0a,0
+Piano Bar,Logan Square,4eb2173bcc21adeaf8578c24,0
+Piano Bar,West Town,4e29ff6a14955dbf7acad0f6,0
+Piano Bar,Rogers Park,5bf8870be9b9a500256c6346,2
+Photo Studio,Avondale,4bf48cbb6a31d13adef3952e,1
+Performing Arts,Edgewater,4bcb413368f976b032a96083,15
+Performing Arts,Armour Square,4cbe0ce373ef199c86cad7a2,1
+Performing Arts,Armour Square,50ff3c1ee4b0a49393935c46,4
+Performing Arts,Armour Square,5202eb09498e04c9722833a6,0
+Performing Arts,Belmont Cragin,4b0a00f1f964a520f22023e3,36
+Performing Arts,Belmont Cragin,4bd0ec7ca8b3a5936efa645f,57
+Performing Arts,Lake View,4de696c2b0fbfe6373b569e5,0
+Performing Arts,Uptown,51bcc19d498e9339a651b2ea,0
+Performing Arts,Near South Side,4d86b8d41923530c48f1afd0,0
+Performing Arts,Edgewater,4edaa7ea77c8274efd7d8c8c,0
+Performing Arts,Douglas,4bd082be77b29c745ee08a82,1
+Performing Arts,Near North Side,50301683e4b08345cd2bfad5,0
+Performing Arts,Near North Side,4f36e263e4b0d3ab50eb6f4f,1
+Performing Arts,Near West Side,4f065c035c5c3303086b0290,0
+Performing Arts,Auburn Gresham,5712fbf5cd102e21f69450fe,0
+Performing Arts,Lower West Side,4f49b08be4b04a413037f109,0
+Performing Arts,Irving Park,504ce974e412f7a9452fded9,0
+Performing Arts,Avondale,5990fb2dc0cacb28d8c5e8c9,1
+Performing Arts,Avondale,5a03b7f96cf01a47c98fe975,0
+Performing Arts,Jefferson Park,4c37a9511e06d13a5f5f763e,0
+Performing Arts,Jefferson Park,4d6c6321960c370452163100,0
+Performing Arts,Irving Park,5103059ee4b0db110b7dfb0d,0
+Performing Arts,Near West Side,556aba70498e9f8aade2d405,1
+Performing Arts,Near West Side,51b00bb6498e0be815adf0a7,0
+Performing Arts,Rogers Park,4cb0a424c5e6a1cd46f2d6f6,0
+Performing Arts,Near North Side,50a935c7e4b0d042f941c968,0
+Performing Arts,Near North Side,4c486d972c6ab71300351429,60
+Performing Arts,Uptown,4cc0d488967d5481f61f7457,0
+Performing Arts,Albany Park,4da0d53463b5a35d5619db19,0
+Performing Arts,North Center,51747cace4b0e47c05eea72b,11
+Performing Arts,North Park,4c8bf9e45e38b1f7912c2df9,0
+Performing Arts,Ashburn,5daa8c5f82e02a0008262788,1
+Performing Arts,Loop,4c45c0e0dcd61b8d961f7d56,1
+Performing Arts,West Town,4e7390ea31512e12d968290f,1
+Performing Arts,Lincoln Park,53a64a7e498e199f486f232f,2
+Performing Arts,Lincoln Square,52573103498e6b722e032fc8,2
+Performing Arts,Rogers Park,58cb5de3ce66aa4acc41ea3a,1
+Performing Arts,Loop,50a27b7be4b05c73cc482715,2
+Performing Arts,Loop,4d3dfac56e252c0ff69fe23b,1
+Performing Arts,West Town,531f3d7a11d217c597e774fb,1
+Performing Arts,Uptown,5d3bbf01749e1c00081b938c,2
+Performing Arts,Uptown,4ffc46f0e4b042c38c5df666,0
+Performing Arts,West Ridge,4ba00caff964a520aa5537e3,0
+Performing Arts,Uptown,50763ef9e4b0f886931c25c0,0
+Performing Arts,Lincoln Park,4c19629a4ff90f47c4e60f49,24
+Performing Arts,North Park,4d6d9573922f8cfa54203cfe,1
+Performing Arts,North Park,5128822d067d90dc74087f89,0
+Performing Arts,Hermosa,5155d630e4b0e990ed93d463,8
+Performing Arts,Logan Square,4b84a7d8f964a520dc3f31e3,0
+Performing Arts,Humboldt Park,52eef8cc498e8b397908b39d,5
+Performing Arts,Austin,4c056f1091d776b08f69f7f9,1
+Performing Arts,Austin,518ed7b8498e759a8779d5e7,0
+Performing Arts,West Garfield Park,4f24860de4b0e12081c65928,0
+Performing Arts,West Garfield Park,4ee6e25c6da14e7d9c034eec,0
+Performing Arts,West Garfield Park,4d6b1a21994f224b10cb10eb,0
+Performing Arts,Douglas,535bedbb498e0b69ca793ba4,1
+Performing Arts,Fuller Park,4b96f3e1f964a520f9ef34e3,29
+Performing Arts,Grand Boulevard,550f408e498e004e954ba0b1,0
+Performing Arts,Brighton Park,4f6e19bfe4b0a4e2103b55cb,0
+Performing Arts,Bridgeport,57420249498e439899e78d20,0
+Performing Arts,Bridgeport,54d6edc2498e8594558452cf,0
+Performing Arts,Gage Park,547a551a498ef97a1091aec5,0
+Performing Arts,Clearing,50266983e4b0f67566e3ad04,0
+Performing Arts,West Lawn,50298bcee4b0075a1914518e,0
+Performing Arts,Ashburn,51d71ee8498e80a26e7bbdba,2
+Performing Arts,Mount Greenwood,504ceb59e412f7a945300fe0,0
+Performing Arts,OHare,4ec5d0be0e6158bafc9ccaf6,0
+Performing Arts,Lower West Side,51d1c1a8498ec004dc51ba1e,1
+Park,Hegewisch,4bb66b292ea1952123a4ab2f,9
+Park,Lincoln Park,4a0e2513f964a520cb751fe3,162
+Outdoor Sculpture,Armour Square,57155847498e933ac67cf5f0,1
+Outdoor Sculpture,Douglas,543ac0fa498e89864955f517,0
+Outdoor Sculpture,Riverdale,4c2b5fd62219c928b873a448,107
+Outdoor Sculpture,Riverdale,4eacc231f5b936710b39e119,2
+Outdoor Sculpture,Lake View,5b1c05113e70ff00245f7c67,0
+Outdoor Sculpture,Lower West Side,533ce7a5498e40115aadc7b8,0
+Outdoor Sculpture,Lake View,4b0850dff964a520da0823e3,1795
+Outdoor Sculpture,Lake View,51bf4e02498ec72ad8bfd1ef,7
+Outdoor Sculpture,McKinley Park,53f61c9a498eacc7b0b7e2a8,1
+Outdoor Sculpture,Douglas,55faf2c7498ea7ad563e55e0,0
+Outdoor Sculpture,Lincoln Park,4bca477b937ca593c197a792,18
+Outdoor Sculpture,Logan Square,53fa8bf9498e2a54516996b5,0
+Outdoor Sculpture,Kenwood,4c8811f37223b1f750a628a8,6
+Outdoor Sculpture,South Shore,536a86ac498e080e30f5fbf3,1
+Outdoor Sculpture,South Chicago,5f80da40005ac739465e5c8b,0
+Outdoor Sculpture,New City,5372a81b498e195a35baffc1,0
+Outdoor Sculpture,New City,4e24d033aeb77583928143fc,6
+Other Outdoors,Near North Side,56e9e5d5498eb30b276403f9,14
+Other Outdoors,West Town,4c57a0c8cc96c9b6f388792e,1
+Other Outdoors,Rogers Park,4da2f9210adcba7a6266004d,0
+Other Outdoors,OHare,518a8b74498e93bb32c72917,1
+Opera House,Near South Side,4b10c31df964a520837523e3,310
+Opera House,Edison Park,4f31f409e4b0bdfc058e49e4,0
+Opera House,North Park,4ec320ff775b92bf9ca3dea5,0
+Office,Albany Park,4cf405f17e0da1cdeef99f97,14
+Office,Near North Side,4d3453ffb5c78eec49b34cbf,0
+Office,Lake View,4c21f8c1502b952173e06d21,3
+Office,Avondale,4bbe351c061fb71388e8edce,0
+Office,Near South Side,4bad5672f964a52098473be3,1
+Non-Profit,Near North Side,4bdb6d9e63c5c9b66bf62768,8
+Non-Profit,Lincoln Square,4c0441d80b8eef3b0de1b882,6
+Non-Profit,Armour Square,4beedd8fb0b376b01ec9dab3,8
+Nightclub,Near North Side,55143b76498eb3ae154ce7da,7
+Nightclub,Near North Side,41b3a100f964a5206a1e1fe3,73
+Nightclub,Portage Park,4e5b31133151520d8063fecd,3
+Nightclub,Lake View,40b28c80f964a5200ffc1ee3,170
+Music Venue,Albany Park,4bf56c716a31d13a41dd962e,0
+Music Venue,Albany Park,40b28c80f964a520affb1ee3,1832
+Music Venue,Edgewater,4e21c490b61cdcf1ecc0fd36,3
+Music Venue,Armour Square,5210088711d257089a1d3359,0
+Music Venue,Belmont Cragin,417c4200f964a520ca1d1fe3,317
+Music Venue,Belmont Cragin,57af4b7638fab51a7e281b02,1
+Music Venue,Norwood Park,4cf22de1e9425481fee76ec5,5
+Music Venue,Logan Square,56c02eed498ea6009086c4f2,2
+Music Venue,Logan Square,528740f9498e9ab573c95002,0
+Music Venue,Logan Square,4c130b1282a3c9b66bf1faf8,0
+Music Venue,Logan Square,5378fffd498e52a00e0d6359,1
+Music Venue,Uptown,52a77923498eb2ccab283ac7,1
+Music Venue,Uptown,4c5c94a42815c9285181b267,0
+Music Venue,Near South Side,4eceeeed9a52262b810a33d7,2
+Music Venue,Chatham,4e9f34ade5fa0edd7dff0c27,0
+Music Venue,Armour Square,4f78dd71e4b0a35da5a789f6,2
+Music Venue,Armour Square,50344510e4b0cb8fd90cec58,0
+Music Venue,Armour Square,4f4021254fc695783783ee97,0
+Music Venue,Near South Side,5287cded11d214168d3d9c09,4
+Music Venue,East Garfield Park,4dbcb1091e72b351caba473d,0
+Music Venue,Lower West Side,56b05ceb498ea82851800ecc,0
+Music Venue,Lower West Side,4d5484a2cff7721e82809ff5,0
+Music Venue,Lower West Side,51739735e4b01c0ba041fded,0
+Music Venue,West Town,4fde61cbe4b0f11e35e42c60,0
+Music Venue,Riverdale,4f63d226e4b05c1d58c82b61,0
+Music Venue,Riverdale,52abbcb311d2e46dee3b3b25,0
+Music Venue,Forest Glen,4bf2b62f55c7c9b601656204,0
+Music Venue,Edgewater,56e275db498e074131550490,0
+Music Venue,Edgewater,4e89d4f6a17ccac7cf4c45f6,0
+Music Venue,Edgewater,4ef150444690f5e3937fc1a4,0
+Music Venue,Edison Park,4cda53d099026dcb0d780581,0
+Music Venue,Douglas,4b9555fef964a520279d34e3,1
+Music Venue,Near North Side,514e4d59e4b09aa63ca2fdc5,0
+Music Venue,Near North Side,5be65461d176e90025f4e07c,0
+Music Venue,Lake View,4f421327d5fbe7236fa9596b,0
+Music Venue,Englewood,4d9530a70caaa14316ea58b3,1
+Music Venue,Belmont Cragin,5635c132498e6204e170b9c1,0
+Music Venue,Hermosa,4ced3fc8ed62721e17b054fd,0
+Music Venue,Hermosa,4eef96eee5faa560f39ed4ce,1
+Music Venue,Humboldt Park,5234f6ba11d22da9bd425940,1
+Music Venue,Humboldt Park,4d9d2c89c99fb60cba82c28b,0
+Music Venue,Hyde Park,59bd709026659b702a8dccbb,0
+Music Venue,Avondale,51fda38f498ebf134ff8fb4b,0
+Music Venue,Hermosa,50aadd0ee4b0b0757895b027,0
+Music Venue,Hermosa,4cd5d6b9a42b236a07b0f208,0
+Music Venue,Kenwood,4f1363f2e4b0725fedd14d5e,0
+Music Venue,Kenwood,4ead878ae5fad025f8298882,1
+Music Venue,Irving Park,4e59b9a0ae6099fc00ccc9ca,0
+Music Venue,Irving Park,52e15a8e498e3733ffb86ede,1
+Music Venue,Logan Square,5dd03fc151b2650008ad1a4f,0
+Music Venue,Logan Square,40b28c80f964a5204dfe1ee3,0
+Music Venue,Logan Square,50b92bc2e4b0f3b794239936,0
+Music Venue,Lincoln Park,4e4d4d92a809b3dab3b5970a,0
+Music Venue,Lincoln Park,4f32c97619836c91c7fa931e,0
+Music Venue,Lincoln Square,5a39b8186a59507b1a286290,0
+Music Venue,Near West Side,502581b8e4b0c6da267f83ec,1
+Music Venue,Logan Square,508c8d72e4b07e54b3af3e15,0
+Music Venue,Loop,5430ce02498e8e357f613bb8,11
+Music Venue,Rogers Park,52360d7511d2aa2743f82097,0
+Music Venue,Uptown,4bc85b19af07a59365a8802d,0
+Music Venue,Uptown,4d8b79407d4c548159ee7e71,0
+Music Venue,Uptown,4c4b35a8c668e21e21dec1f9,0
+Music Venue,Albany Park,5356dd64498e5a5a29384576,0
+Music Venue,Albany Park,5372abae498e1fb317c8f3e5,1
+Music Venue,Near South Side,59954a0a6e4650766a5c398c,0
+Music Venue,West Town,4cdad722a1bba35d1c2291e5,0
+Music Venue,North Center,4d7c43c18f89224ba8a6a126,0
+Music Venue,North Center,4d800b49208a5481e2ed6d67,6
+Music Venue,Lake View,4c01a7e9f99620a1dcf12404,1
+Music Venue,Lake View,4c9e6312d3c2b60c39dfcabc,0
+Music Venue,North Park,56975059498e6e906f23f28e,0
+Music Venue,West Ridge,4cd77c372944b1f7b7b668ec,7
+Music Venue,Greater Grand Crossing,4f3f1abbe4b00b5257930887,0
+Music Venue,Near South Side,566142c2498e7cabab2e4958,3
+Music Venue,Loop,40b28c80f964a52039fb1ee3,559
+Music Venue,Pullman,50f5f594e4b0c1ab6743b392,0
+Music Venue,Lincoln Park,51faf6cf498eaebcfcf01d13,197
+Music Venue,Lincoln Park,4cb960cc43ec6dcb9ecb9c31,0
+Music Venue,Lincoln Park,56f5eb56498e0f359943c3c3,1
+Music Venue,Lincoln Square,4c7852aaa868370417fd0c4d,0
+Music Venue,West Town,5294192f11d250ebb3d9bada,2
+Music Venue,North Park,4efb653161af454601d7f719,0
+Music Venue,North Park,4d581c5bc406a35d0578f04a,0
+Music Venue,Rogers Park,4e49e77645dd81ecad8722df,0
+Music Venue,Rogers Park,4fa9dcbbe4b09d3b3fa5c1e7,0
+Music Venue,North Center,40b28c80f964a5208efc1ee3,201
+Music Venue,West Town,4ac54acef964a52068b120e3,12
+Music Venue,West Town,4d1a9a5583c5a1cda84b254e,0
+Music Venue,West Town,4f8516fae4b0f0cde018a4d4,0
+Music Venue,Douglas,4bca875c0687ef3b4357dccc,2
+Music Venue,South Lawndale,4f31ecc8e4b0bdfc058859c6,0
+Music Venue,Loop,50cd2a0ee4b0b76cda3a4f8f,0
+Music Venue,Loop,5157a82fe4b0d8c12625c0a4,1
+Music Venue,Near North Side,4f21f1d4e4b04b5522dff3e0,0
+Music Venue,Near West Side,56f8df70498ee53c5c2a3641,6
+Music Venue,West Town,4123ed80f964a5203d0c1fe3,324
+Music Venue,Uptown,40b28c80f964a52079fe1ee3,345
+Music Venue,Uptown,4c255c9cf1272d7f32c184c5,261
+Music Venue,Washington Park,4e642d8ed4c06542abb5b9f7,0
+Music Venue,West Garfield Park,5144e4d5e4b0da933cf04148,0
+Music Venue,West Town,4cccfc8f54f0b1f751301aca,0
+Music Venue,Lake View,5d7afba0a94c1000088a9890,0
+Music Venue,Lake View,40b28c80f964a5200afc1ee3,753
+Music Venue,Uptown,5130bfa6e4b0a24f7af3b397,0
+Music Venue,Lincoln Park,502ee2c2e4b06888b6ad5022,63
+Music Venue,Edison Park,5675094d498ef8a58d6c8c43,0
+Music Venue,Jefferson Park,57db581a498e8b155de43131,0
+Music Venue,Jefferson Park,4e06a162d1640223a4983537,0
+Music Venue,Jefferson Park,50a3f695e4b0bcbb93fb885c,0
+Music Venue,Jefferson Park,4dcd4929cc3f07eb1f016ad7,0
+Music Venue,North Park,4d252b4b38d0236a71d9e9b6,0
+Music Venue,Irving Park,4f32cffd19836c91c7fd6cbc,0
+Music Venue,Dunning,521e827f11d2e513baea57a3,2
+Music Venue,Dunning,4d8ecf791d06b1f7c45a523b,0
+Music Venue,Montclare,5075ef07f2e73b925f639078,2
+Music Venue,Montclare,4da3debb0f578cfaaea8c218,0
+Music Venue,Montclare,4d1be13909546dcb1938cd38,0
+Music Venue,Belmont Cragin,53e2bc7d498ebc041883bd20,1
+Music Venue,Belmont Cragin,52bcf8dd11d281b1166fbc0f,0
+Music Venue,Belmont Cragin,5724614f498e76d9cdce794a,1
+Music Venue,Hermosa,4bd39e7d046076b0ea977671,0
+Music Venue,Hermosa,4e433590e4cd394059db94cf,0
+Music Venue,Hermosa,4dc4b7e17d8b14fb4618fa21,0
+Music Venue,Hermosa,508cc55ee4b04ae59028b4be,0
+Music Venue,Hermosa,4f1bbd9ce4b064e65c58b25d,1
+Music Venue,Hermosa,51fc95af498edd33edc1b427,4
+Music Venue,Avondale,4e839265a17c2b629475ca20,3
+Music Venue,Logan Square,4e07a20062e100e58171479c,0
+Music Venue,Humboldt Park,51e2db87498e1db53e859fb8,1
+Music Venue,Humboldt Park,502f0edde4b0b5040f427731,4
+Music Venue,Humboldt Park,4c7ee5491009a093b7ed454e,0
+Music Venue,West Town,4b9db4d7f964a5202fbb36e3,0
+Music Venue,West Town,4bfdd88bbf6576b0adf5adb8,1
+Music Venue,West Town,4f1396f5e4b06c588cc083e9,0
+Music Venue,West Garfield Park,4fa42afee4b0e7038a5a7d6f,0
+Music Venue,West Garfield Park,512b95efe4b0466f61c4e206,0
+Music Venue,East Garfield Park,4ef88c29490124bf9a5884a1,0
+Music Venue,East Garfield Park,4bae32b1f964a5200e913be3,2
+Music Venue,North Lawndale,4c99a4f7eaa5a1433092c5e4,0
+Music Venue,South Lawndale,5b7a6ff2037be100398de61a,0
+Music Venue,South Lawndale,5870523ed4ab735c99c6b385,0
+Music Venue,South Lawndale,4f03e2e59911be1fbcec4cde,0
+Music Venue,Armour Square,4d8b45b999c2a1cd8e7ca1d7,1
+Music Venue,Armour Square,4e6d4ab9e4cd7236ef6b7be2,0
+Music Venue,Douglas,4f8a5073e4b0af4d4ebf29f1,0
+Music Venue,Douglas,51732c49e4b049eea53a3be8,0
+Music Venue,Fuller Park,4cdf1337f8a4a14388d5dbbc,1
+Music Venue,Fuller Park,507d7e93e4b03d34a5faefc9,0
+Music Venue,Fuller Park,4f4877bae4b0e44505e2e900,0
+Music Venue,Fuller Park,4e9b5332b803b562d6ac915a,0
+Music Venue,Grand Boulevard,4c2634a6f7ced13ae4de256d,0
+Music Venue,Kenwood,4c10f62ece640f47d9b63a52,136
+Music Venue,Washington Park,4d9a3a9299c3548157fff89a,0
+Music Venue,Woodlawn,4cedc3f5ed62721e020458fd,0
+Music Venue,Chatham,4e87838dbe7b72ae72beea6b,0
+Music Venue,South Chicago,50c3efe0e4b09610f312ce13,0
+Music Venue,South Chicago,4d72eba4ec075481a4be90bf,1
+Music Venue,Calumet Heights,4f32d04719836c91c7fd8bde,0
+Music Venue,West Pullman,56efa528cd10e58bc2a6712b,5
+Music Venue,West Pullman,528940b911d2244897759998,0
+Music Venue,Brighton Park,57173208cd109bd7645a6d33,0
+Music Venue,Brighton Park,4de3e4c58877bcb686670265,2
+Music Venue,McKinley Park,4f4020dde4b020398c3c8e6a,0
+Music Venue,Bridgeport,5279680d498ed64a14c23a30,2
+Music Venue,Bridgeport,5015ef24e4b0748a7a1fa999,0
+Music Venue,New City,40b28c80f964a5204ffc1ee3,170
+Music Venue,West Elsdon,5191a3a4498e115e79a2cc77,0
+Music Venue,Gage Park,4fb13412e4b097c37f2ee0a8,0
+Music Venue,West Lawn,4e5fc289ae601ef79d57832c,0
+Music Venue,West Lawn,502451f1e4b09c2bc163684c,0
+Music Venue,West Englewood,5772cddc498ebd4c47b62aca,0
+Music Venue,West Englewood,4d0ff51ce2365481c1e874ea,0
+Music Venue,Auburn Gresham,4e74428d52b1c8e518eaa5c9,0
+Music Venue,Washington Heights,4e9b7a7761afc418ba1febb1,0
+Music Venue,Mount Greenwood,524b0ef711d2a673a034a30d,1
+Music Venue,Edgewater,5655652d498ed47eb10a9619,2
+Music School,Lincoln Square,4a47be09f964a52009aa1fe3,125
+Museum,Edgewater,4b3a7591f964a520d96725e3,31
+Museum,Douglas,5df10e72621968000850b8ff,0
+Museum,Uptown,5262b4f6498e1970c3d2936d,1
+Museum,West Town,4e7cd10629c20f5f1ccb262d,7
+Museum,West Town,4e7cd0939a529a8d421583d4,6
+Museum,Douglas,4bed9a496e8c20a1a09e7061,19
+Museum,Douglas,4ba39ab2f964a520264b38e3,87
+Museum,Near North Side,5025a740e4b0dd4acbdd5728,1
+Museum,Near West Side,4b745860f964a5209ed62de3,0
+Museum,Humboldt Park,54176396498eda81166b1a71,6
+Museum,Humboldt Park,51f6ac56498e48de33e7424e,0
+Museum,Kenwood,51202fb2e4b0155161ae6158,0
+Museum,Lake View,4a622a61f964a5203dc31fe3,820
+Museum,Lincoln Park,5174ab21498e6f23f35b15b5,1
+Museum,Lincoln Square,4b2c502af964a520b2c524e3,46
+Museum,Loop,4ae3260bf964a520f39021e3,243
+Museum,Loop,4bc9e614fb84c9b666d61b3e,29
+Museum,Near North Side,53404b33498eb6afb29b8f0f,30
+Museum,Near South Side,4a2d877ff964a520c8971fe3,16
+Museum,Lincoln Square,4bdf06efffdec928bd7aeaa1,2
+Museum,Near North Side,4bb528bcef159c740b5e74f7,19
+Museum,Belmont Cragin,504cd1ebe4b0a294bacd3c2d,2
+Museum,Armour Square,5acce3fd4a1cc04480f0fe54,0
+Museum,Armour Square,509543eae4b055b34ca3a496,1
+Museum,Avalon Park,4d12aaf9058fa35dc1c3289f,1
+Museum,Pullman,4b896f11f964a520dc3532e3,7
+Museum,Bridgeport,4b0313ebf964a520824c22e3,132
+Museum,New City,6028602958d20c40a5aafea1,1
+Museum,Beverly,55a98a18498eb193c336440b,1
+Movie Theater,Albany Park,4ff65e1de4b07fe945d6f95b,0
+Movie Theater,Edgewater,4d78f2e4e215721ea9ce19b0,0
+Movie Theater,Uptown,511ec7fde4b0b99ea2162af6,1
+Movie Theater,Armour Square,50e9f2c1e4b09c384c8aaac7,6
+Movie Theater,Clearing,4efb8e284690a04b132408ff,0
+Movie Theater,Near South Side,59702b0393bd63281bba21d2,1
+Movie Theater,Near South Side,5036ac5fe4b00cb54cd16cd8,6
+Movie Theater,Near South Side,50a5922fe4b0913498c55d11,0
+Movie Theater,West Town,5b33c5a9d552c7002cd9c895,1
+Movie Theater,West Town,4f68ceb8e4b0ac77ecdb24b8,32
+Movie Theater,Roseland,52155b2d11d289e00833c6fe,0
+Movie Theater,Near West Side,4d3ee48fd2c8f04dce177772,0
+Movie Theater,North Lawndale,4db256134b220b5fbb008fff,1
+Movie Theater,Hyde Park,50f432dee4b0edc99e7088eb,112
+Movie Theater,Hyde Park,511b01e4b71b2ef86beabe26,0
+Movie Theater,Lake View,5674825138fac9b0d472055a,88
+Movie Theater,Lincoln Square,4a367adbf964a520949d1fe3,120
+Movie Theater,Logan Square,4ec17ea69911a2ec5cb7aead,0
+Movie Theater,Rogers Park,4a5e8ec0f964a520ccbe1fe3,146
+Movie Theater,Rogers Park,525c599d11d21c0c8df0f385,0
+Movie Theater,Rogers Park,4f32cdad19836c91c7fc6a08,0
+Movie Theater,New City,5632eb6f498e6204e12d6d59,226
+Movie Theater,Lake View,4c21709013c00f47a30d86de,6
+Movie Theater,West Ridge,5f35ee38c551a43bd0ad6d4d,0
+Movie Theater,Avondale,4a9092f7f964a5209a1820e3,15
+Movie Theater,Portage Park,539ea9fa498ee8946e0d3bbd,0
+Movie Theater,North Center,515f6628e4b040942ea1a6b7,0
+Movie Theater,West Town,4cba5784dd41a35d71dae7a0,0
+Movie Theater,South Shore,5020989ce4b08241e0ac40b0,2
+Movie Theater,Rogers Park,4d816bcb6282721edfa6df4d,0
+Movie Theater,North Park,4dc03a16fc60e86731086080,0
+Movie Theater,Portage Park,4bef6073c80dc92866ea27e3,0
+Movie Theater,Portage Park,4eea9eb3be7b18b57f619827,0
+Movie Theater,Portage Park,4de95a09b3ad702aed4023c3,24
+Movie Theater,Dunning,4f32ccc019836c91c7fc0304,0
+Movie Theater,Dunning,59c0967c9e3b65243eba322a,17
+Movie Theater,Oakland,4ef93a22a69dea74fc45667c,0
+Movie Theater,Washington Park,4f3152b0e4b0dd99b3b1e6e6,0
+Movie Theater,Hyde Park,4d546eaaba5b224b48190314,36
+Movie Theater,Burnside,51e5f531498e5b73c190770d,0
+Movie Theater,Burnside,4ecfe3d68231b9ef87ef6c22,0
+Movie Theater,South Deering,5010937fe4b0871c8aa06d0f,0
+Movie Theater,Garfield Ridge,4f32c93919836c91c7fa78ce,0
+Movie Theater,Brighton Park,512ad678e4b0861e657fa8fb,1
+Movie Theater,Bridgeport,5f7a79edf2fb9551c76af468,0
+Movie Theater,Bridgeport,5136f31be4b0152ea439282d,1
+Movie Theater,West Elsdon,51589df7e4b02bc22323dca6,0
+Movie Theater,OHare,4f32ca3319836c91c7fae6aa,0
+Movie Theater,Edgewater,4f6deb85e4b0e42842bb52a5,0
+Mini Golf,Douglas,5dcf5bc13d053f0008dd08cd,4
+Mexican,Kenwood,4baaa918f964a520a57d3ae3,29
+Memorial Site,Hegewisch,5e0b8624998e6b0008b3a260,0
+Memorial Site,Fuller Park,4c5cff4199ff76b0fadeb79e,2
+Memorial Site,Bridgeport,589b74f3fc73d44d96585a89,0
+Market,Rogers Park,5d1d435d7226a500239d2d9d,0
+Lounge,Riverdale,4a5280cff964a520a8b11fe3,154
+Lounge,Near North Side,40b28c80f964a52084ff1ee3,54
+Lounge,Grand Boulevard,4beb27d5a9900f479c731740,2
+Lounge,West Lawn,4def14171fc7e81f6da264b3,0
+Lounge,Logan Square,4bef5871d1b7d13afdb2cdec,2
+Library,Armour Square,4dbba1d90f2c919d3962cc61,1
+Library,Grand Boulevard,4d962894fb0fcbff6a3f7aeb,15
+Library,Lake View,4b7497ebf964a52072e62de3,9
+Library,Lincoln Square,4a367bacf964a520979d1fe3,58
+Laser Tag,Logan Square,53b78375498e531e3f9fad7a,0
+Landmark,West Town,4f23fd41e4b0020c2e44c283,5
+Landmark,Lincoln Square,4d5726fffb65236a8c0c0fb4,0
+Landmark,Armour Square,4fdcb39ce4b05be2360cef45,1
+Juice Bar,West Town,5243094f11d26c103092e78f,7
+Jazz Club,Avalon Park,40b28c80f964a520d5fc1ee3,0
+Jazz Club,Washington Heights,50ef1426e4b095e8bbf5cc63,1
+Jazz Club,Near South Side,4b699582f964a52061a82be3,110
+Jazz Club,Avondale,4f1d775be4b0c74ef3e9e02b,0
+Jazz Club,Avondale,53176f65498ef3b12db1d553,0
+Jazz Club,Avalon Park,4b61d36af964a52067252ae3,35
+Jazz Club,North Center,514919c8222f026328785a48,58
+Jazz Club,Norwood Park,5324783c498ea3d0584fb27e,1
+Jazz Club,Near South Side,4cbbd0dbdd41a35d5764f0a0,0
+Jazz Club,Uptown,40b28c80f964a52071fe1ee3,505
+Jazz Club,West Lawn,41102700f964a520d20b1fe3,51
+Jazz Club,Fuller Park,4b2fcf20f964a52059f024e3,71
+Jazz Club,Kenwood,40b28c80f964a52040fc1ee3,536
+Jazz Club,Edgewater,4f64d3bde4b0aa8f676f47e1,0
+Italian,Lincoln Square,51b22771498eaa2baa7963b7,3
+Indie Movies,Edgewater,4c6f2fe29375a093325b0337,0
+Indie Movies,Armour Square,4bc1122774a9a593fb4bd1f6,14
+Indie Movies,Uptown,4baea566f964a52076ca3be3,0
+Indie Movies,Riverdale,4f2efb74e4b0b0d0857ee863,0
+Indie Movies,Edgewater,51846804498e6db4237a1b85,0
+Indie Movies,Lake View,50427cdfe4b0f30042094606,0
+Indie Movies,Hyde Park,58004559d67c2a7d592ea382,1
+Indie Movies,Near West Side,4f0e4f2ce4b0dd89314ee152,0
+Indie Movies,Logan Square,4b4bdde3f964a52006aa26e3,371
+Indie Movies,Uptown,4f176a92e4b0333426e14c1a,0
+Indie Movies,Irving Park,4f2dd27fe4b0efbc104fd214,0
+Indie Movies,Avondale,4af9eaa3f964a5203d1522e3,5
+Indie Movies,Avondale,4f4ad559e4b05ebee2096480,0
+Indie Movies,Rogers Park,51744b26498e0949cace47fd,0
+Indie Movies,Near West Side,4f750365e4b0499541b40685,0
+Indie Movies,West Ridge,4a4bca0df964a520bbac1fe3,144
+Indie Movies,Uptown,4b64e39af964a520add72ae3,9
+Indie Movies,Lincoln Park,4a426dc7f964a520d6a51fe3,399
+Indie Movies,Edison Park,4b37ea92f964a5208b4825e3,63
+Indie Movies,West Town,596141a99746173e6759b4c4,0
+Indie Movies,Woodlawn,512a8563e4b034d2b9d5a33c,1
+Indie Movies,Chicago Lawn,5033cd61e4b0cd7f6f0ed4df,0
+Indie Movies,OHare,50e5e4dfe4b0bf94154f7299,0
+Indie Movies,OHare,50a88c7ae4b0354baee5ce74,0
+Indie Movies,Edgewater,59f759190d173f517907b1b0,2
+Indie,Edgewater,4a859b4ef964a5209ffe1fe3,132
+Indie,Uptown,4f9a9156e4b0d2bd6191b0a3,0
+Indie,Uptown,52000097498e9cc787751d8a,2
+Indie,Uptown,4e7fb05255031290d2fc1a59,0
+Indie,Riverdale,4dae0fcccda1ea0bb0369edd,4
+Indie,Edgewater,5825145eb613dc251f9f1d63,1
+Indie,Edgewater,512c1321e4b0d2e981de8e75,0
+Indie,Near North Side,5bac2c2ff0b490002caf35a8,0
+Indie,Lake View,4ad3e178f964a520c7e620e3,14
+Indie,Near West Side,4f9470f2e4b03828fe875b4d,0
+Indie,Jefferson Park,51f291e3498edc5ec5eabd4e,1
+Indie,Near South Side,4ee6bf7261aff5a343f81c08,1
+Indie,Lincoln Park,4dd894c5d4c05d5097076358,0
+Indie,Lincoln Square,568990c6498eaff1845a75e5,0
+Indie,Lincoln Square,522c008811d241479200046a,0
+Indie,Albany Park,5be7a38eb5cb76002c6a76a8,0
+Indie,West Ridge,539cc789498eb12d43c92c19,0
+Indie,Rogers Park,4c39050d18e72d7f5b8319f5,8
+Indie,Uptown,4f015a6c9adffb90ce63e5b0,0
+Indie,Lincoln Park,4d3211405017a09339ab459b,0
+Indie,Avondale,4bd495777b1876b015588986,0
+Indie,North Lawndale,522284d3498eba571b4f8dcd,0
+Indie,South Shore,4fb465a7e4b0b88193827d32,1
+Hockey,Austin,4b084118f964a520740723e3,3
+Hockey,East Garfield Park,4b776439f964a52048972ee3,44
+History Museum,Armour Square,4b4e0d9ff964a520c0df26e3,170
+History Museum,Armour Square,4b4003adf964a5203ab425e3,152
+History Museum,Armour Square,4c9d510f2fb1a1434d8ddf40,8
+History Museum,Armour Square,4f2d9e80e4b0d337d42068bc,0
+History Museum,West Town,45840e55f964a520933f1fe3,2468
+History Museum,West Town,5474c696498e47d74937fcbb,0
+History Museum,West Town,504b9b0be4b08a4f6920bb72,1
+History Museum,West Town,4d7927974b30a1435c979fcb,115
+History Museum,West Town,4f1db107e4b08fa6671b4a02,2
+History Museum,West Town,4c9e5fd42fb1a14355f6e940,19
+History Museum,West Town,4f986084e4b0dfd7feeed8b8,2
+History Museum,West Town,524b079211d279624ce5cf45,6
+History Museum,West Town,4f3f93c0e4b00b52580540a2,0
+History Museum,Gage Park,4ed11edb775bbb5f33b846a5,2
+History Museum,Near North Side,4c37788e52dfef3b7a11ef70,5
+History Museum,Near West Side,4bed4d04bac3c9b6450dfee9,27
+History Museum,Humboldt Park,4de815de52b1741cdafa1571,3
+History Museum,Chicago Lawn,4d704f4b68276ea88b5b8690,9
+History Museum,Rogers Park,4beae41f4f5576b09035b396,67
+History Museum,Near South Side,4e6922e618a89685777fed57,0
+History Museum,West Town,4cf70edecc0560fc099dfb63,4
+History Museum,Near South Side,4a2d8750f964a520c6971fe3,8
+History Museum,West Town,4edab11a46907c1b430e15e3,0
+History Museum,West Town,522a713511d26e35f6a53667,1
+History Museum,Rogers Park,4e9c38fa4690c21335c0624e,0
+History Museum,Rogers Park,4db21fba1e722237647f0424,1
+History Museum,Roseland,4d97be2e97d06ea87057240b,4
+History Museum,Loop,590b91a9b9a5a84760ab8eab,0
+History Museum,Near West Side,4bd391b59854d13a852dfe4d,159
+History Museum,Uptown,554fa405498e6935391cb0ef,2
+History Museum,Rogers Park,553c001d498e037084397ab0,3
+History Museum,Rogers Park,4d0a739fb93b224b7b7246bf,4
+History Museum,Uptown,4c22740f9085d13aa45b86cc,3
+History Museum,North Center,516ee52f498ea34670118829,2
+History Museum,North Center,4c131ef87f7f2d7f41abde68,3
+History Museum,Lincoln Park,50ae9882e4b047828a5dd1a2,0
+History Museum,Edison Park,5068b972e4b0759e8b9634ce,1
+History Museum,Forest Glen,4c9457d872dd224bcb7c9991,0
+History Museum,Douglas,4cbb3173d78f4688053ec173,1
+History Museum,Washington Park,5233885311d2b264f1b3afd8,0
+History Museum,Chatham,510ff257e4b0256d8a440ca1,0
+History Museum,Bridgeport,597a34d375cb8c4b59372316,2
+History Museum,New City,4f58e52ce4b08e27a11026de,0
+History Museum,New City,4a9820eaf964a520962a20e3,321
+History Museum,Clearing,4be988b061aca593b7a48200,24
+Historic Site,Albany Park,4de00ac2ae605835c4490101,0
+Historic Site,Albany Park,5091c2cee4b008cf9016db18,0
+Historic Site,Armour Square,571a4f5b498e166aaf1bf0c2,0
+Historic Site,Belmont Cragin,4f14811ee5e8f419ab96f132,2
+Historic Site,Belmont Cragin,501e1259e4b00558f293b9c5,0
+Historic Site,Belmont Cragin,51b16556498e70aa9357368b,0
+Historic Site,Lake View,5d2ceca7afbe2900231ababf,0
+Historic Site,Lake View,5262c90c11d21018e4f39c53,0
+Historic Site,Lincoln Square,4e3d7f5fd164b52911ad787f,9
+Historic Site,Douglas,4f03187d2c5b66f33f426f2a,23
+Historic Site,Douglas,51152573e4b0621ac3b908ae,0
+Historic Site,Logan Square,507605fde4b0334daa9167e1,7
+Historic Site,Logan Square,4e1fb9d81f6effe84f5fd754,0
+Historic Site,Uptown,4e7542451838f91889c6618a,0
+Historic Site,Uptown,4e812ad849019264bb969c4c,0
+Historic Site,Near South Side,4fceaac3e4b0f54f28df841c,0
+Historic Site,Near South Side,53169197498e25adacc28d88,0
+Historic Site,Armour Square,55148852498e18feb8f698b2,0
+Historic Site,Near South Side,4b2fcdecf964a5203ff024e3,41
+Historic Site,Lower West Side,514f9bbbe4b0ab0310911e2d,1
+Historic Site,Edgewater,5184804e498e3687e18be11e,0
+Historic Site,Edison Park,52965f4e498e26ef2ae8340e,1
+Historic Site,East Garfield Park,4d157b1285fc6dcbc77da04e,3
+Historic Site,Douglas,4c02d503187ec9287dd1b47b,1
+Historic Site,Douglas,4e586b16ae60dbf65b4f1a89,0
+Historic Site,Douglas,4bdadc2063c5c9b6d1362568,382
+Historic Site,Near North Side,4d9f6c6683f0b1f75a7e99c7,0
+Historic Site,Near North Side,50a81617e4b0b2e8bfb93f5d,1
+Historic Site,Near North Side,4e6534871838ad3d10001df8,0
+Historic Site,Douglas,4fdfbfe1e4b0f7525803f30d,0
+Historic Site,Douglas,4e39cf786284250071c24aa1,0
+Historic Site,Hermosa,4e88900b9adf19a54a99b814,9
+Historic Site,North Park,510f3ceae4b0bb3c6cdb95bd,0
+Historic Site,Humboldt Park,4fd7a4f9e4b0b5d989d21a11,0
+Historic Site,Humboldt Park,4fd7a8b3e4b012b9ddd6d36f,0
+Historic Site,Hyde Park,57019740498e30d7e64dfa46,2
+Historic Site,Irving Park,535fffa4498e443d2b738e0d,1
+Historic Site,Avondale,52db5c08498e102ef6af8023,0
+Historic Site,Hermosa,50622445e4b0580cace2c69b,0
+Historic Site,Kenwood,5e041ff916e40c000851b52b,0
+Historic Site,Kenwood,4f1654f1e4b0d59e24d79fc4,2
+Historic Site,Kenwood,4e24c5a9d4c04ce2253312cf,2
+Historic Site,Kenwood,4f0cbb85e4b0e4e35c75e457,2
+Historic Site,Kenwood,4e46dfe645dd2955e59e2692,0
+Historic Site,Douglas,4b2fcec7f964a52050f024e3,30
+Historic Site,Lincoln Park,4eeec375f9ab8c5a032c3427,0
+Historic Site,Logan Square,4e744808aeb780be09b1b0ee,84
+Historic Site,Uptown,5258d2ec498e1c20187afce2,0
+Historic Site,Irving Park,517db0f3498e11ab4b086c3a,0
+Historic Site,Irving Park,4e87aa53be7ba15d3dbf302e,0
+Historic Site,Morgan Park,5bc1ff72a6031c002c4d9316,0
+Historic Site,Near South Side,4f1d8fdbe4b0f271e8d422c0,0
+Historic Site,Austin,55f442a8498e91b1a9b92c1e,0
+Historic Site,West Ridge,514665a2e4b0da66e7bb16b2,0
+Historic Site,Avondale,4e5be8d362e1de72f711bb39,3
+Historic Site,Near South Side,5bfec814f62e090039b21982,0
+Historic Site,Near South Side,4bc08a2bf8219c7464adb110,6
+Historic Site,Near South Side,4c6989b396f176b06c68a536,11
+Historic Site,Near South Side,4b01c67af964a520544522e3,54
+Historic Site,West Town,516f6005e4b03e954a06033a,0
+Historic Site,Pullman,4f7cd8e1e4b07071b51199be,3
+Historic Site,Lincoln Square,4e8be04f6c25fbeecd6158fc,0
+Historic Site,Lincoln Square,561c9a56498ed81f47f4317d,0
+Historic Site,Lincoln Square,4f237f9ae4b0acaff7440fa8,0
+Historic Site,North Center,4e34157018507d858b17a6ad,6
+Historic Site,West Town,562f8d43498e8e4c99100fc7,1
+Historic Site,Loop,4b2fcd5af964a5202ff024e3,43
+Historic Site,Norwood Park,5001dd2ee4b0946791f27474,1
+Historic Site,Uptown,4bcc8dd03740b7130c366465,8
+Historic Site,Uptown,4fb9ee2ae4b0c8c4082cd234,1
+Historic Site,West Town,4e0a7ec41495b12d8237fca5,0
+Historic Site,Lake View,5056c8d4e4b0978a10a002d3,0
+Historic Site,Rogers Park,50536fe9e4b0e5434bf7438f,0
+Historic Site,West Ridge,4b2be784f964a52059bd24e3,11
+Historic Site,Uptown,50e77094e4b0112dec81bdfd,0
+Historic Site,Lincoln Square,51cf1dde498e9bff9b6917b2,1
+Historic Site,North Center,4f3e9a8ae4b0de6b366bf248,0
+Historic Site,Lincoln Park,4e3b2f2baeb73139a15b740e,0
+Historic Site,Jefferson Park,50f340f4e4b05845b313b048,0
+Historic Site,Jefferson Park,51e5ce97498e9c6df499e0c5,0
+Historic Site,Irving Park,4f63db87e4b0cded5bf117b9,0
+Historic Site,Dunning,4ed06deebe7b9eece00bb954,0
+Historic Site,Belmont Cragin,4e73529ca8095a7c423b01fe,1
+Historic Site,Hermosa,4fa1fdc6e4b0b4fd550c39c6,1
+Historic Site,Logan Square,51455a72e4b0f632bd4b22e3,0
+Historic Site,Logan Square,4f80e1f9e4b088077f43a09b,0
+Historic Site,Humboldt Park,4f2d9157e4b09d49e88f8f1c,0
+Historic Site,Humboldt Park,52c3b429498e40e97ab3c6ca,0
+Historic Site,West Town,510ee7d2e4b0bdbf08302e14,0
+Historic Site,Austin,4f8e2476e4b084124a4b1e66,0
+Historic Site,West Garfield Park,502aebfbe4b067dfe68914c1,1
+Historic Site,East Garfield Park,4e531473814db605db22480a,0
+Historic Site,Fuller Park,4fa85a81e4b04d56423ee508,1
+Historic Site,Fuller Park,50099472e4b06a8f7c0158a7,0
+Historic Site,Kenwood,55500d12498e91aefeffc3ac,0
+Historic Site,Woodlawn,4f3c2827e4b0ad1bcaff056a,0
+Historic Site,Pullman,4ebdde67722eb20686cbd24d,1
+Historic Site,West Pullman,4e57d907c65b219786a303e5,0
+Historic Site,Garfield Ridge,536fcb66498e0ac0da2382a1,0
+Historic Site,Archer Heights,5035956be4b045e72e84fd1f,2
+Historic Site,Archer Heights,51327e72e4b0a002767ed93d,0
+Historic Site,Archer Heights,4f0792e3e4b0945c6a0fdc0d,1
+Historic Site,New City,4c5dfeff6147be9a5ad29309,9
+Historic Site,Ashburn,4efacf50775b54cdb7700cff,0
+Historic Site,Auburn Gresham,50ff3d51e4b0d8c3c4f50d88,0
+Historic Site,Beverly,4fa6b2f5e4b0baf7ce3d8410,0
+Historic Site,Beverly,5b8ac7056e4650002cd3e23b,0
+Historic Site,OHare,4f074c7de4b000dd743b3c30,0
+Historic Site,OHare,50611702e4b0699a760af34e,0
+Historic Site,OHare,50a972cfe4b0354baf6ed693,0
+Harbor / Marina,Douglas,4c3b3cf4d94dc9b6c572ffe7,30
+Greek,Lincoln Square,4a6ca0e5f964a5200ed11fe3,23
+Go Kart,Logan Square,5425f8e1498e05dee57a4e20,1
+Gift Shop,North Center,4e7ce683b3ad3ad77c06029b,34
+Gay Bar,Lake View,519d6641498eb6e84dd69147,202
+Gastropub,Hyde Park,5104dd90e4b08a321af9d11a,244
+Fountain,Lake View,4ba8ff11f964a520cb013ae3,403
+Football,West Town,45280395f964a520113b1fe3,1801
+Football,West Town,4ce00dacc4f6a35d32b5d36c,68
+Football,Edison Park,4bef3748f2712d7f807dfbd8,0
+Football,Hegewisch,4e75fac5b61c22c6386954e8,0
+Football,Norwood Park,5235d20511d261136f6a9555,1
+Football,Roseland,4eb57b859a52ad1e3ef6e286,6
+Football,West Ridge,4da0f7f4c6e96ea8140cb75d,0
+Football,Norwood Park,52520b1e498e2d73be32a4a5,0
+Football,Albany Park,4e33119d18a8efdb1754f6b1,0
+Football,West Garfield Park,4eb6d204be7bfc284ae4526c,0
+Football,Brighton Park,4ee4e70b0e011d524697b6f4,1
+Football,West Elsdon,4e76164952b1c8e519bb1ce8,1
+Food Stand,Belmont Cragin,5ff0f24bebc1585dcc200920,1
+Exhibit,West Town,57781cff498e5d7f6650bc2a,0
+Exhibit,West Town,5207df4f11d240611204b616,1
+Exhibit,Edgewater,50f1ac9ce4b01e1157117e68,1
+Exhibit,Near West Side,50136fc3e4b00c78e3f46887,0
+Exhibit,Lake View,59bd672c135b3922e97e7bd2,8
+Exhibit,Loop,5f78a3cc2214a218b5d78274,0
+Exhibit,Lincoln Park,51867d88498eda32a003030e,0
+Exhibit,Lincoln Square,57ec8975498e3f41ddac25fe,1
+Exhibit,Logan Square,5067a5dce4b03c3d3b0f134e,0
+Exhibit,Armour Square,5b1c6519e96d0c002c4b511c,2
+Exhibit,Armour Square,6043b4c9defdfa1ef4a46a1a,0
+Exhibit,Armour Square,50e1cbd6e4b01e17f7b8cc14,3
+Exhibit,Armour Square,4d1e2dfb756e8cfad7055754,59
+Exhibit,Bridgeport,57f5a831498e8d565adb0eb6,0
+Event Space,Near South Side,4ff6fb37e4b0a7f7407ca75f,27
+Event Space,Near North Side,4c522a10b6dabe9a090ce712,6
+Event Space,Montclare,4b51bc7df964a520ea5327e3,12
+Event Space,West Town,4c59fe9cf346c92829094eca,0
+Escape Room,Douglas,5862fd2351666a7a045df480,8
+Escape Room,Portage Park,5c8ee1d72f97ec002c7e6578,0
+Entertainment Service,Lincoln Park,5c5e2f4f82a750002cd63605,0
+Entertainment,Albany Park,5ade3d7b2f97ec47ca9a4142,35
+Entertainment,Albany Park,4c001bd5daf9c9b65f49fbef,0
+Entertainment,Edgewater,4df39bd8aeb7170aa2f19670,0
+Entertainment,Edgewater,526c329f11d2978e3eff78ba,0
+Entertainment,Edgewater,4c96583294a0236a5d1b9e12,0
+Entertainment,Archer Heights,4dda833bb0fb8af380cf0ac4,0
+Entertainment,Armour Square,4f344d0be4b00996ad12a0d3,0
+Entertainment,Armour Square,4eecfa4c93add02fcb9c27de,0
+Entertainment,Armour Square,53780f37498ee21c0b4df338,0
+Entertainment,Auburn Gresham,51452daee4b0111da54c22e3,0
+Entertainment,Avondale,501d5be0e4b00422cade9445,1
+Entertainment,Avondale,5011c069e4b001b33824e5b8,1
+Entertainment,Belmont Cragin,50e32933e4b0a3665ee1b8a1,2
+Entertainment,Belmont Cragin,4dffd0ad45ddd9364c2d57f5,0
+Entertainment,Belmont Cragin,4f1cb665d5fba9ec6d6ce83c,0
+Entertainment,Belmont Cragin,4e6bb6d01f6e1e74e4c5d740,0
+Entertainment,Belmont Cragin,4c719eac7121a1cdd88260d1,0
+Entertainment,Belmont Cragin,4c9416fb0341370415006fef,0
+Entertainment,Belmont Cragin,4ee42ef729c220f971834912,0
+Entertainment,Beverly,4ce82c44595cb1f7e139c714,1
+Entertainment,Lake View,59fe6fcc829b0c5527fd2962,1
+Entertainment,Lake View,4d97e129daec224b64953c3e,0
+Entertainment,Lake View,4c744d51b474a1cd463db6bf,0
+Entertainment,Lake View,4dfd734245ddebdfeaae4d41,0
+Entertainment,Lake View,4c8d541a509e370423543b55,7
+Entertainment,Bridgeport,4d60c9c6865a224b47cdaf85,1
+Entertainment,Brighton Park,4edac1128231efe38fe1d4a2,0
+Entertainment,Douglas,4dbf3daf4b2221ec2d56a37f,0
+Entertainment,Douglas,4f9b56ebe4b0b38d2ecdddf0,0
+Entertainment,Douglas,586b335dea1c0d23c6954938,0
+Entertainment,Douglas,4e4ef708d4c0b6da5d77c63a,2
+Entertainment,Douglas,5137a854e4b0349e31eee16f,2
+Entertainment,Douglas,4fa559f1e4b0a34ac782b8c4,0
+Entertainment,Logan Square,4dbdb9cbf7b1ab37dd7d5dc0,1
+Entertainment,Logan Square,4db29a220f2cc5cb9d7559a8,10
+Entertainment,Logan Square,4f888ec7e4b02981896eb1a3,0
+Entertainment,Logan Square,4c816459d4e23704c26d5d88,0
+Entertainment,Uptown,4e938e035503852c34b2d6de,0
+Entertainment,Uptown,4ff52ce7e4b055f8963d786c,0
+Entertainment,Uptown,4f20e13ae4b0dbf58cf01076,0
+Entertainment,Uptown,4e46f3bf227128e1e8d2dc06,0
+Entertainment,Uptown,4e98811f9adf2081f84001fd,0
+Entertainment,Near North Side,4ce84e48f3bda1434aabb8e4,0
+Entertainment,New City,515e1eb4e4b02caa20220b1f,0
+Entertainment,Chicago Lawn,566e2706498e79811b6e367a,1
+Entertainment,Armour Square,4fa57ea8e4b098f42b47d482,0
+Entertainment,Armour Square,4e627e5bd164ddd5e5cd4fe6,2
+Entertainment,Armour Square,581792d638fab86817a82ec9,0
+Entertainment,Armour Square,4b9306c3f964a520c02f34e3,27
+Entertainment,Uptown,520c25e711d22fa41dbde17e,0
+Entertainment,Uptown,4fb7a31fe4b07c52a6815a44,2
+Entertainment,Uptown,518c4ee2abd843cba93de365,7
+Entertainment,Clearing,4e24c11545dd9c2217df9d37,0
+Entertainment,Near South Side,4d838e8f7e8ef04de8e6f8bd,0
+Entertainment,Near South Side,4d988a8e744f37041d1df157,0
+Entertainment,Near South Side,5609c606498e787fdc4c0710,0
+Entertainment,Near South Side,4d5fe60429ef236a9a5f9e59,1
+Entertainment,Near South Side,4ab38417f964a520b46d20e3,2
+Entertainment,Lower West Side,534020c1498ed9289900a8d7,2
+Entertainment,Lower West Side,4f67f4e3e4b0fef78f4fa304,2
+Entertainment,Lower West Side,51a7dc08498e34a6b96bb8ac,0
+Entertainment,Lower West Side,52a569d511d2634aff75727b,1
+Entertainment,Lower West Side,4e1e47a6fa76920758acdb51,0
+Entertainment,Lower West Side,4f88957be4b002b90a7949f8,0
+Entertainment,Lower West Side,53d9a37d498e21dc45d132a0,5
+Entertainment,East Side,52801c96498e50a1f45e64f5,0
+Entertainment,Riverdale,4b8976baf964a520b53832e3,12
+Entertainment,Riverdale,4c05a38691d776b0a3c0f7f9,0
+Entertainment,Riverdale,4ebacb876da1625d7a5329b0,0
+Entertainment,Riverdale,4bb169a6f964a520c4913ce3,4
+Entertainment,Riverdale,5828ebf2b613dc251f2d514b,1
+Entertainment,Riverdale,4e8cf275a17c045d5293f194,0
+Entertainment,Riverdale,515e03d3e4b0c1343ffe552b,0
+Entertainment,Forest Glen,4d1eac56b69c6dcbf5796095,1
+Entertainment,Edgewater,5498a764498efecb7e48f434,1
+Entertainment,Edgewater,4de6e843b0fb9a99f6f6627c,0
+Entertainment,Edgewater,5671dd9c498e49f083e780c6,0
+Entertainment,Edgewater,4c47ddd86c379521991dd5b5,0
+Entertainment,Edgewater,4da4fc3ccda109f02fb4e46b,1
+Entertainment,Edgewater,513e1f2a19a9f54d36969580,3
+Entertainment,Edgewater,52672027498eb8400b065f45,1
+Entertainment,Edgewater,4fce9e3de4b099aae3cfd94d,0
+Entertainment,Edgewater,4ff9e756e4b0d27dd8d2e5db,0
+Entertainment,Edison Park,4ff48e71e4b07fe94514aad1,0
+Entertainment,Forest Glen,4e74f7d6e4cd32543719ea34,3
+Entertainment,Douglas,4c2a82d88abca5939fcbfe1f,4
+Entertainment,Douglas,4bba12081261d13aa82cea98,0
+Entertainment,Douglas,4c8be73455fba093608d5aab,48
+Entertainment,Douglas,4fed7d1ce4b0c859d4d2f31b,0
+Entertainment,Douglas,4bf49ea898ac0f47164864a8,0
+Entertainment,Douglas,4e7273f0e4cda03368a93c92,0
+Entertainment,Near North Side,4ccf0afd566aa093b8a130fd,0
+Entertainment,Near North Side,4fb587e4e4b006bb8ad4628d,1
+Entertainment,Near North Side,4ee7e4cdbe7b2085278075f1,0
+Entertainment,Near North Side,517ebdede4b0af46216b6aba,0
+Entertainment,Near North Side,4ca36cb51ee76dcbef1ff9dd,6
+Entertainment,Near North Side,4c0fa9852466a59386f47a21,0
+Entertainment,Near North Side,40b28c80f964a52029fd1ee3,0
+Entertainment,Near North Side,50679e02e4b0846a5ab90c0a,0
+Entertainment,Near North Side,50f48b93e4b0efe1087d29ad,0
+Entertainment,Near North Side,4c000476ca1920a1acb0ed81,1
+Entertainment,Near North Side,4b072fadf964a5201cf922e3,31
+Entertainment,Lake View,4f45c1d0e4b0c44efba9df67,0
+Entertainment,Lake View,4f1cb4a0e4b0065cbc2039ce,0
+Entertainment,Lake View,4c981492671db60c28c3b6f6,1
+Entertainment,Grand Boulevard,4b0df3b5f964a520115323e3,5
+Entertainment,Near West Side,4c64232cde1b2d7fba70e670,1
+Entertainment,Near West Side,506f3e9be4b0bb9551914a2a,1
+Entertainment,Near West Side,4b8db742f964a5203c0a33e3,7
+Entertainment,Near West Side,51db30f75019d1999077a356,7
+Entertainment,Near West Side,4e30eca31838bc8e1a248d03,0
+Entertainment,Auburn Gresham,4cd4c79267c7236a1b6b0f77,0
+Entertainment,Douglas,53e675e4498ed3877e40776c,0
+Entertainment,Belmont Cragin,4fc94820e4b024903636e84a,0
+Entertainment,Lower West Side,5271bae7498ee4b76038324b,3
+Entertainment,Lower West Side,4e98df8330f8e35f5578f5b7,0
+Entertainment,Lower West Side,4baa39f9f964a52055553ae3,0
+Entertainment,Lower West Side,537e8969498edfe99401a99b,0
+Entertainment,Hermosa,4dbac2604159a4e20f51b44f,0
+Entertainment,North Park,4d860e245e70224be1772e09,0
+Entertainment,Humboldt Park,4ff37d6be4b05ae5227fa170,1
+Entertainment,Near West Side,515f5e4be4b0ec0feda6c6ec,0
+Entertainment,Avondale,4bdb76c43904a5936c9d4a9e,0
+Entertainment,Avondale,4c1cf24e8b3aa593a1a8995f,1
+Entertainment,Avondale,50a2f91fe4b03d0cce2ecd6e,0
+Entertainment,Jefferson Park,56527f86498ec8a79c3d91cf,1
+Entertainment,Jefferson Park,4d87b53c5ecdf04d454a888a,0
+Entertainment,Jefferson Park,4e9f81d1e5fa13c70e2748a3,0
+Entertainment,Jefferson Park,4ebddeb5be7b04923b8ed494,0
+Entertainment,Hermosa,522b62a7049301832aefb557,1
+Entertainment,Hermosa,4bdb8374c79cc928f14483e9,0
+Entertainment,Hermosa,4c4cf00b13d120a1484e1c01,3
+Entertainment,Morgan Park,4c7868f397028cfacee2d7fe,0
+Entertainment,Kenwood,503abbc9e4b0975cc3658224,0
+Entertainment,Kenwood,5e31b893f1ce750008bc8b62,1
+Entertainment,Kenwood,4c462d09f88dc9287b02af75,0
+Entertainment,Kenwood,4de03f6218380dc4dd2b05b6,2
+Entertainment,Kenwood,4dc1057a52b1877d85aa59c5,1
+Entertainment,Kenwood,4dfa9f07149557de37aac5c2,0
+Entertainment,Kenwood,4e14e2891495a0bf9532e0da,1
+Entertainment,Irving Park,55e62c4e498efc9412a263cb,2
+Entertainment,Logan Square,513ab14ce4b09b144615f29d,0
+Entertainment,Chicago Lawn,4ef7b451a69dea74faf5ff66,0
+Entertainment,Near West Side,4d5dadd33271f04d830cc887,0
+Entertainment,Near West Side,521a9f6111d2a6c2f1ca7ae8,0
+Entertainment,Logan Square,4dd78d33c65bee535ab49eba,0
+Entertainment,Logan Square,4f7b8095e4b032c26baf77fb,0
+Entertainment,Washington Heights,4fc2abe5e4b027ef15a06213,1
+Entertainment,Rogers Park,4e38cae97d8b6bed20a8944c,0
+Entertainment,Rogers Park,513d3b45e4b099fed12d42c1,0
+Entertainment,Rogers Park,4e7e529f8b814c768a51a7e4,0
+Entertainment,Rogers Park,507a0904e4b0f934e9571b5d,0
+Entertainment,Rogers Park,4b7f74cbf964a5208c2f30e3,0
+Entertainment,Rogers Park,51cc5dc3498e6cc367e60648,1
+Entertainment,Uptown,4f022c06b6346feaeefbd0f8,1
+Entertainment,Uptown,4ed37c9730f81894b1e51333,0
+Entertainment,Uptown,56b06081498ee7cd2e416a4c,0
+Entertainment,Uptown,4f6fad7de4b0600334695097,0
+Entertainment,Uptown,5257819811d276927e6c5393,0
+Entertainment,South Lawndale,4e470f9ae4cd9d94fb2b8fc2,0
+Entertainment,South Lawndale,51b6dd17498ee2a089bd5ee3,1
+Entertainment,Avalon Park,4bcdbfadfb84c9b6bf77223e,12
+Entertainment,McKinley Park,50481e3ae4b0ad1857101005,1
+Entertainment,Montclare,4ea4a6b0e3008f7d93050cc8,0
+Entertainment,Mount Greenwood,4fefe21ae4b0dc34767b1551,0
+Entertainment,Near South Side,4f1f3cefe4b01a2ba13ec807,0
+Entertainment,Near South Side,53812a7d498eb7855e85e241,1
+Entertainment,Near South Side,4f241d1fe4b0b2f98f13acea,0
+Entertainment,Near South Side,4f7f5c29e4b04310245e1c48,0
+Entertainment,New City,513b800fe4b0ef93591235b2,0
+Entertainment,West Town,4f874c9fe4b09efb9f8dd0c4,0
+Entertainment,West Town,4ca36101d5a2a14365c84890,0
+Entertainment,North Center,4bb3ec79643cd13a9131395c,1
+Entertainment,North Center,4ec9befe0e6158ba01418e8e,0
+Entertainment,Lake View,4d54988ccc65a143d429445e,1
+Entertainment,Lake View,4cd4ad23fb59548136dfd950,0
+Entertainment,Lake View,4fefb51ce4b02acbcdffb58a,0
+Entertainment,Lake View,5081da52e4b08a31a7a7ae2c,0
+Entertainment,Lake View,4e02be93a809d5cf45264d1d,0
+Entertainment,North Park,4e580e4b14954ed283340a66,0
+Entertainment,West Ridge,5d463691542e4900084668a9,0
+Entertainment,West Ridge,4fd4433ae4b0d6a97d68341e,0
+Entertainment,West Ridge,4cc496afbde8f04dce67ac4b,0
+Entertainment,West Ridge,4be363111dd22d7fca9c96bd,0
+Entertainment,Norwood Park,4e0b1093813063752f5b7dd3,0
+Entertainment,Near North Side,4e480f71fa76a07fde6f3245,2
+Entertainment,Logan Square,4acd2667f964a52014cb20e3,52
+Entertainment,Greater Grand Crossing,4d4dcb75869cf04d6e93e1ae,0
+Entertainment,Lincoln Park,5167280580554a983ac6479a,0
+Entertainment,Ashburn,4e2d7e61ae605c533a4c5fad,0
+Entertainment,Avondale,4c6b8ea59c76d13a81864e0f,0
+Entertainment,Avondale,4d2b3f71f7a9224bd5160ea0,0
+Entertainment,Avondale,4af6dd0ff964a520a50322e3,0
+Entertainment,Avondale,4d7c682279c4b1f72148fbf2,0
+Entertainment,Avondale,5012b33be4b09075802077ab,0
+Entertainment,Near South Side,511d675de4b0070ba2e8fec6,0
+Entertainment,Near South Side,4d8643e25ad3a09387c0f5fd,0
+Entertainment,Near South Side,4f89cccde4b039b1456ff5d7,0
+Entertainment,Loop,51912605498eb3137240d509,1
+Entertainment,Loop,508e8f0ee4b0bfcf9a9603aa,0
+Entertainment,Loop,4fa58cec121df8dabb3d1682,0
+Entertainment,Lincoln Park,5480f878498ede90865cd18a,0
+Entertainment,Lincoln Park,4f1b23dbe4b0918979744804,0
+Entertainment,Lincoln Square,4f84d07ee4b042f37b3434f4,0
+Entertainment,Lincoln Square,4db6007d0cb6729b6ab0a2f9,0
+Entertainment,Lincoln Square,50cfcc37e4b021539d8e2946,0
+Entertainment,Lincoln Square,50cfce39e4b07cfd8cf1c07b,0
+Entertainment,Lincoln Square,4fa4087ce4b0cbe2def49d94,0
+Entertainment,Lincoln Square,4fa1ea69e4b0b2264fcb3e8a,0
+Entertainment,Lincoln Square,55170400498e07ed9eba7f1d,0
+Entertainment,Lincoln Square,4faef263e4b0d39d533dc1e5,0
+Entertainment,Albany Park,51677a218acae064e56c0293,1
+Entertainment,Near North Side,51ab4bce498ebe068a43286e,0
+Entertainment,West Town,4ddf046fe4cde756db2ac131,1
+Entertainment,North Park,4fc24e7de4b02db73e7c4d34,1
+Entertainment,Rogers Park,4fb98f9fe4b0c9d40a417bc6,0
+Entertainment,Rogers Park,52325c1c11d243a35befae94,1
+Entertainment,Rogers Park,517c2387e4b01b121200d22c,0
+Entertainment,Rogers Park,4ef7ab4d7ee5bf79942bb9e4,0
+Entertainment,North Center,59244bafc8b2fb26c5b93f3f,1
+Entertainment,North Center,5a03841cb3d8e25cf84e55b9,0
+Entertainment,North Center,4e7e7887b803c152231840c7,0
+Entertainment,Roseland,512955a1e4b07aedc8794f01,0
+Entertainment,OHare,4c7ae0684dc1ef3b8aab369e,0
+Entertainment,Ashburn,4e5d1ba5d4c0764136091f2e,0
+Entertainment,Uptown,525875ae11d283a715c7d5da,0
+Entertainment,Uptown,52923ee811d2832d89db387c,0
+Entertainment,Uptown,57d207ef498e6c31197d149a,0
+Entertainment,Uptown,5258751b11d2c3ed0c6db56e,2
+Entertainment,West Town,4e9b31758b81c0254ea61266,0
+Entertainment,West Town,4d954f3a2bd6f04dd2461c50,0
+Entertainment,West Town,4d98ee78942ba0933007918c,0
+Entertainment,Austin,4e20cb6088774a43b7635d76,2
+Entertainment,South Lawndale,5653ba54498ef83ba3f85a40,1
+Entertainment,South Lawndale,590f978f72475066e90d5dd5,9
+Entertainment,South Lawndale,4dfd09ced4c001cca36eaddc,0
+Entertainment,Loop,51d6fe31498e009c4095efc0,2
+Entertainment,South Shore,4f7fb48fe4b05766b0f2531e,1
+Entertainment,South Shore,4f57cf6fe4b093764715bbbc,0
+Entertainment,Douglas,4f734656e4b090538552f6d6,0
+Entertainment,Near North Side,4e41c9471f6ec93e924de23a,3
+Entertainment,Near North Side,4deedfa2c65bf3f03e89de98,0
+Entertainment,West Town,4e58228bb9935d203d041e45,1
+Entertainment,West Town,5320b350498e1a85cdc6cf27,0
+Entertainment,West Town,4c681bca8e9120a10ce7db64,0
+Entertainment,West Town,4e21b50c18a88345f04e5a4a,0
+Entertainment,Washington Heights,54863653498e1787e944ff91,1
+Entertainment,Washington Heights,4f01027b2c5b66f33d59c9f7,0
+Entertainment,Washington Park,523f982911d21cdd9edf9000,16
+Entertainment,Armour Square,50638351e4b0974e7bc676a8,4
+Entertainment,Armour Square,586b34600e0a1e3ff753ca29,8
+Entertainment,Armour Square,55a98c6f498e124b19cf5bcd,3
+Entertainment,Armour Square,586b33fb2948b3545e8d94a3,2
+Entertainment,Armour Square,4e9b4c2eb63497cdaa2c00e1,0
+Entertainment,West Garfield Park,4df95a1ab61c7e9df14c131b,2
+Entertainment,West Garfield Park,4ec20dc829c25ce5a2fc16ed,1
+Entertainment,Near West Side,4dbafd0793a08f927498f320,0
+Entertainment,West Town,5247182f11d285150231c9f2,0
+Entertainment,West Town,518ba98a498efa50f5da4799,0
+Entertainment,Forest Glen,5b5bc2aa35d3fc002c0454ae,0
+Entertainment,Ashburn,4e57116362e12dc097f2c847,0
+Entertainment,Lake View,4f85e261e4b0cd08a5071ace,6
+Entertainment,Lake View,4bc764f18b7c9c74445f36cf,12
+Entertainment,Lake View,4e681f99c65be3a564d52efb,17
+Entertainment,Lake View,5012d009e4b08516d1a1977f,6
+Entertainment,Lake View,4b464baef964a520d51c26e3,0
+Entertainment,Rogers Park,4e70c43b814dd2cb9622d072,38
+Entertainment,Rogers Park,4c7ee375fb13a1cdf21d9fa4,0
+Entertainment,Rogers Park,4bc536a40a30d13afbd5599c,0
+Entertainment,Uptown,4f95fca0e4b01cb74de2f2c8,0
+Entertainment,Lincoln Square,4e2a1b53483bb05f05903ca8,0
+Entertainment,Lincoln Square,4fb95d2ce4b02c2ff43d68b1,0
+Entertainment,Lincoln Square,55199e67498ece57a5031bc4,0
+Entertainment,Lincoln Park,4ca22946f832a1cd86b992e5,0
+Entertainment,Lincoln Park,4e6aa28518a83989ec8e2664,0
+Entertainment,Lincoln Park,4e8f3b56f9f4e43d20330090,0
+Entertainment,Lincoln Park,4e3d924de4cdab9b93451c78,0
+Entertainment,Near North Side,4b644ff2f964a520fea92ae3,8
+Entertainment,Edison Park,4b79f238f964a520d21b2fe3,0
+Entertainment,Edison Park,4f5bf127e4b0a61f4b9a2191,0
+Entertainment,Edison Park,4ecf19888b81b47394fb7e7d,0
+Entertainment,Norwood Park,5013f7f5e4b07c3cf2bb3cbd,0
+Entertainment,Jefferson Park,4e304df9ae60231c0335ccd6,0
+Entertainment,Jefferson Park,4fa6d8a7e4b047f0ed4b0aa6,0
+Entertainment,Jefferson Park,4ea7658002d50d150e50e313,0
+Entertainment,North Park,4e284277e4cd6c6cb344a90e,1
+Entertainment,North Park,4c377d2f93db0f471ce21f92,0
+Entertainment,North Park,4e2f02e5a8092ca5c37b470b,0
+Entertainment,North Park,4e3719d6d4c0dc7ad2e2ae07,0
+Entertainment,Portage Park,4df54e31c65bf55ee53220cd,0
+Entertainment,Portage Park,4f240144e4b02a95fde67cf3,0
+Entertainment,Portage Park,5042fbfae4b053a53234b8a5,2
+Entertainment,Portage Park,4fa23d15e4b0e0605ddcc7a7,0
+Entertainment,Portage Park,5cbb33c481a0ea002c896e81,0
+Entertainment,Irving Park,4d6af2a99f4b6dcb00886a28,0
+Entertainment,Irving Park,4ebf585af5b93923c154ff77,0
+Entertainment,Irving Park,50b10a9ce4b046a4fca44aba,1
+Entertainment,Irving Park,5067a4e6e4b0890847c6872d,0
+Entertainment,Irving Park,5137e3dbe4b04267f777026a,0
+Entertainment,Dunning,500cd0ade4b0e9540539ae30,0
+Entertainment,Dunning,5bd35d2bd1a402002cfee065,0
+Entertainment,Dunning,4c11950ed917c9282111b662,1
+Entertainment,Montclare,505e7d59e4b02078abdbf110,0
+Entertainment,Montclare,520ec88711d2040cc4510bc3,6
+Entertainment,Belmont Cragin,56aa4799498ed0803d6ccb3c,1
+Entertainment,Hermosa,5264dbc711d2701769b43116,0
+Entertainment,Avondale,4cccb395ba0a548157263f59,0
+Entertainment,Avondale,4f25ca14e4b02a95ffc96395,1
+Entertainment,Avondale,4c5893b804f9be9a4e46ed60,0
+Entertainment,Avondale,4c48ea90b5eec9b6bfa207a4,2
+Entertainment,Avondale,4bcb54f53740b7130a436265,2
+Entertainment,Avondale,4c4ba218c668e21ed1e74efa,10
+Entertainment,Logan Square,5154dbe6e4b04cff3edff767,0
+Entertainment,Logan Square,4c4c97219c8d2d7f4f9ba76c,0
+Entertainment,Logan Square,4c350d9516adc928b63ac69c,0
+Entertainment,Humboldt Park,4bbfb39a74a9a593f4efcef6,0
+Entertainment,Humboldt Park,51d26e9a8bbd6723296cd78f,0
+Entertainment,Humboldt Park,52116f6d11d25305b639593a,0
+Entertainment,West Town,4d5c35e583f4ba7a485078e6,0
+Entertainment,West Town,4e18d49e62e12640d87a0717,0
+Entertainment,Austin,4f77f07ae4b08e5a68213649,1
+Entertainment,Austin,505e4835e4b0707f498ac280,1
+Entertainment,Austin,4d9e918e9bf0a35d9333fe0a,0
+Entertainment,Austin,5206f30e498e0645e6fee381,1
+Entertainment,Austin,522e963811d2b22ff6ae4f26,0
+Entertainment,West Garfield Park,54179e0d498e928bd7147983,0
+Entertainment,West Garfield Park,4ccb7347ba0a548162c53659,0
+Entertainment,East Garfield Park,571a511c498ee5843cae6fd2,0
+Entertainment,East Garfield Park,4cb7cbfd23a4199c463dec89,0
+Entertainment,East Garfield Park,4d605b4b14963704f834e494,5
+Entertainment,North Lawndale,5265703c11d2b9ed4df3ae46,1
+Entertainment,North Lawndale,4b7f68a6f964a520132d30e3,1
+Entertainment,North Lawndale,4fdd60bfe4b0f8bdf44b30ed,0
+Entertainment,South Lawndale,50d2619de4b0be2a4206bfa1,1
+Entertainment,Douglas,4e46e50ab0fb93df27104d44,0
+Entertainment,Douglas,4c3509157cc0c9b6e460f49a,1
+Entertainment,Douglas,4f8f8092e4b094de9af55ff3,5
+Entertainment,Oakland,4cc593c8bde8f04d44f4b14b,0
+Entertainment,Fuller Park,4bdedd240ee3a593881832b0,0
+Entertainment,Fuller Park,4e55fb2d483bf804dd9d3f6f,0
+Entertainment,Fuller Park,4ce5d2aeb997548184cbec44,1
+Entertainment,Fuller Park,4f1833cfe4b0ebf9e46d65c2,0
+Entertainment,Fuller Park,4f2571bda17cdae4ca0bd05d,0
+Entertainment,Kenwood,4eea905f775b8c899d0128ca,0
+Entertainment,Kenwood,51f3e29d498e058fa89becc0,32
+Entertainment,Washington Park,55de0679498e16dd6f1cd06d,0
+Entertainment,Hyde Park,4f249cdbe4b0eec7fe693926,0
+Entertainment,Woodlawn,4e6bcd1452b1c1206066fd70,1
+Entertainment,Woodlawn,4ed2b11b02d5feaa1efda41b,1
+Entertainment,Woodlawn,51322713e4b0ed8933d0e0f3,0
+Entertainment,Woodlawn,51f43eb3498ee145cf9528fd,0
+Entertainment,Chatham,4edecdcbe300bf196a80debb,0
+Entertainment,Chatham,5413ee4c498ec124d5c7276b,0
+Entertainment,Chatham,4dc76535d4c0ad9c0fb82ccc,0
+Entertainment,Chatham,50bd6dfce4b00ddbb481332f,0
+Entertainment,Avalon Park,5000f0fce4b01f40cdb2bf37,0
+Entertainment,South Chicago,5244271d498ee55729a75608,1
+Entertainment,Calumet Heights,4ec5c54c49010f98ca8ac18e,1
+Entertainment,Calumet Heights,525988b511d2124c6d30de9a,1
+Entertainment,Pullman,4f403ab3e4b0d9886f9a063f,0
+Entertainment,West Pullman,56a637d3498e557a866f36cd,0
+Entertainment,West Pullman,4f402859e4b0bf54c895955d,78
+Entertainment,West Pullman,50f38a3480558e9fcd5691b9,4
+Entertainment,West Pullman,4da5f812ffcb69fe49cf0c64,0
+Entertainment,Garfield Ridge,513d52a5e4b0809a2f1ac11e,1
+Entertainment,Archer Heights,4f07af54e4b09d21f5d206b4,0
+Entertainment,Archer Heights,4eb4897ab634a0485fc7ecec,0
+Entertainment,Archer Heights,4e069693b0fbba5eee172f8e,0
+Entertainment,Brighton Park,4e5c1ecabd41ab6bfd12c082,2
+Entertainment,Brighton Park,4e87714a93adc4c015bfc2b4,0
+Entertainment,Brighton Park,51033c1ae4b0637e07fd5cc6,5
+Entertainment,Bridgeport,56633266498ef0856fffaf42,7
+Entertainment,Bridgeport,5136f436e4b0794762899aa2,1
+Entertainment,Bridgeport,4d82cc9d5ad3a09341e6aefd,0
+Entertainment,Bridgeport,4f5d77dfe4b0695cbc07b5aa,0
+Entertainment,New City,537fec32498ef9ed05069879,6
+Entertainment,West Elsdon,4fcb2008e4b0871e0ec3aab7,0
+Entertainment,West Elsdon,4c9184552626a1cdea31336b,0
+Entertainment,West Elsdon,4f45a41be4b007cd8c7e7cf8,0
+Entertainment,Gage Park,4d9d462648b6224b8160219f,0
+Entertainment,Clearing,4d9524c5744f3704b84a9a57,0
+Entertainment,West Lawn,5c26770535d3fc003912a667,7
+Entertainment,West Lawn,4c4f44d0eaa1be9a538ba845,0
+Entertainment,Chicago Lawn,5578e281498e425bac3b8b3a,0
+Entertainment,West Englewood,4e6269087d8b854089a51418,1
+Entertainment,Ashburn,505291c4e4b021c8a6d195a4,1
+Entertainment,Auburn Gresham,4fe7b571e4b0ed119d172cbb,0
+Entertainment,Washington Heights,4e1cc2c57d8b8fe8c30b204e,0
+Entertainment,Mount Greenwood,519d5a52498e449993c378fe,1
+Entertainment,OHare,51e981d6498e29b87973b31c,0
+Entertainment,OHare,4f9352d5e4b0aa82475a1a42,1
+Entertainment,OHare,5012b339e4b0907580207690,0
+Entertainment,OHare,4ec5f3af9adf9c7bf13b97eb,0
+Entertainment,OHare,50268a37e4b05db3ae895911,0
+Entertainment,OHare,5026dea7e4b0844f8f2af9bc,0
+Entertainment,OHare,4dd8940dd22d38ef4305ff5d,0
+Entertainment,OHare,4e32c5b618a846d7ed0b1759,0
+Entertainment,OHare,5012b2dae4b0f16432a951ec,1
+Entertainment,OHare,50268102e4b0e6861ec3c785,0
+Entertainment,OHare,4d908e5eca75b60c6cb92aa9,0
+Entertainment,OHare,513115ece4b01ac3abb3fcd6,8
+Entertainment,OHare,4e3beb7a8130b2d2c4133b1d,0
+Entertainment,OHare,59138f90fdb9a7204157c39f,6
+Entertainment,OHare,5101e46ee4b00d6c43161c70,2
+Entertainment,OHare,53780827498e84f67c727e75,0
+Entertainment,OHare,55577ab0498e636be8d96bec,4
+Entertainment,OHare,4f9b0bbfe4b08ea03870189e,0
+Entertainment,Edgewater,4ceebcfed7268cfa0778cb4e,0
+Entertainment,Lower West Side,5b415e0f3d47910039c82756,0
+Entertainment,Lower West Side,51a11fce498e1d8e24b1e63b,7
+Entertainment,Lower West Side,4ea2f38de5facb29c77a8596,0
+Entertainment,Lower West Side,4ca7e0b214c337045966ce3b,0
+Entertainment,Greater Grand Crossing,4f498e4be4b0c132f203d82c,0
+Dive Bar,West Ridge,40b28c80f964a52010fd1ee3,115
+Dive Bar,Rogers Park,4a594669f964a52027b91fe3,43
+Disc Golf,Douglas,4bfc533eda7120a161e449fd,3
+Disc Golf,Lincoln Square,5a750cab23a2e630fc35b4ed,0
+Disc Golf,Austin,4edaa354f5b9213988fcb676,0
+Design,Riverdale,5aeb75347564f7002c3e1532,0
+Design,North Center,4f15f06cc2ee45f86acf1c13,0
+Design,West Town,51b8d51f498e140f628e94de,0
+Dance Studio,Edgewater,4e53cfc8c65bea7986d7ae2e,2
+Dance Studio,Armour Square,4bbcf2498ec3d13a75751b28,3
+Dance Studio,Beverly,5212b05411d2f6344203c234,0
+Dance Studio,Brighton Park,4ed7f7e4f7905836c0b7dab4,0
+Dance Studio,Logan Square,4c46414e342c1b8d4225b689,9
+Dance Studio,Logan Square,523dd36011d21ef58210edbf,2
+Dance Studio,Uptown,50b2cc5de4b08106f4200bd1,1
+Dance Studio,Chatham,4ef26dc80e617e29c718b356,0
+Dance Studio,Armour Square,582a0e661632352ed5a8e89b,0
+Dance Studio,Armour Square,558f2ac1498e84b2d6ff5c4e,0
+Dance Studio,Armour Square,4e56eee2c65b270b63311d44,0
+Dance Studio,Armour Square,5015b32ae4b07f20b3ef3cc9,6
+Dance Studio,Clearing,4e46ca9f887781a619afafd6,0
+Dance Studio,Near South Side,5c0bedfd492814002ce2e7c5,0
+Dance Studio,Near South Side,532e0abb498e781e73bd556c,0
+Dance Studio,Edgewater,4bc4f7930191c9b67fe9eab1,6
+Dance Studio,Forest Glen,4bbb81ed3de8c9b616d699ad,9
+Dance Studio,Near North Side,4b6259aef964a5209b432ae3,0
+Dance Studio,Near North Side,4f0b110be4b0aa2dc9004850,0
+Dance Studio,Near North Side,4dc743add164eb9ca01cb5e2,0
+Dance Studio,Greater Grand Crossing,4b997c67f964a5204b7e35e3,2
+Dance Studio,North Park,4dfaa2d562e19b42f1e1da77,0
+Dance Studio,Humboldt Park,4b64d6e8f964a5200bd42ae3,5
+Dance Studio,Humboldt Park,4f7743a0e4b0b9643a37efdb,0
+Dance Studio,Humboldt Park,4f6e0f6ee4b032eb63a33215,0
+Dance Studio,Irving Park,535c566c498ed17a1e5dae1c,3
+Dance Studio,Irving Park,4c0fae0cc6cf76b08fa88251,1
+Dance Studio,Avondale,4f0ceda8e4b01ae23e8ffd58,0
+Dance Studio,Avondale,4b3b6402f964a520367325e3,0
+Dance Studio,Avondale,4fa0d3ede4b07aaa44c521b2,1
+Dance Studio,South Shore,52bf82ed498ebc6b0ecd114b,1
+Dance Studio,Jefferson Park,4f92df33e4b020d1a2d39833,0
+Dance Studio,Near West Side,52acaa81498e1390eee5f523,0
+Dance Studio,Rogers Park,4ca4fbf044a8224b80c7f53f,0
+Dance Studio,Albany Park,4ffcdd51e4b0279c5b31c9ff,0
+Dance Studio,New City,4afee403f964a5204f3122e3,6
+Dance Studio,Austin,4e2113b91fc7c0ef9857603c,0
+Dance Studio,North Center,4b1d3740f964a5201f0d24e3,8
+Dance Studio,North Center,4d1ca17632982c0f5812c8c8,2
+Dance Studio,North Park,5184647d498ed380a85eb631,0
+Dance Studio,Ashburn,4d8be4550731f04dd72b9501,6
+Dance Studio,Portage Park,594ec6df037be13aa54b2c3f,0
+Dance Studio,Portage Park,50f4ab7be4b07da588c3aabb,1
+Dance Studio,Portage Park,4c8b9f1ae51e6dcb04e673de,0
+Dance Studio,Near South Side,50c35786e4b076c8e3b9773f,0
+Dance Studio,Loop,51d09bba498e98300a214039,16
+Dance Studio,West Town,560f39fd498eee56ef240c24,1
+Dance Studio,Lincoln Park,59c324642be42564a02e1f0f,0
+Dance Studio,Lincoln Park,5a61606f3fcee8601a2b5047,0
+Dance Studio,Lincoln Park,4c507b603940be9a6e705307,4
+Dance Studio,Lincoln Park,4b68c980f964a520f28c2be3,0
+Dance Studio,Lincoln Park,4eb330d30aaf1abede55a51d,0
+Dance Studio,Lincoln Square,570a8760cd10b7535caa1dea,2
+Dance Studio,Albany Park,4d2cd4bb79bc721e0cffe5ee,1
+Dance Studio,Rogers Park,4d57817b92326ea808225dc0,1
+Dance Studio,North Center,4f11a776e4b0960dfef89c18,1
+Dance Studio,Uptown,50e351eee4b09f5ea0d17e84,0
+Dance Studio,Loop,542ddb68498ec4159ece4d91,0
+Dance Studio,Loop,50dd0b19e4b0d2d234436c8b,1
+Dance Studio,Lincoln Square,4b7caaf5f964a52037a02fe3,0
+Dance Studio,Lincoln Square,4f52743de4b0d3a8f4b71d7e,0
+Dance Studio,Near North Side,4b7df0f6f964a52049db2fe3,33
+Dance Studio,Edison Park,5d8d410ed2219e0008d63fc6,0
+Dance Studio,Edison Park,4e591b901495a8911279d862,1
+Dance Studio,Norwood Park,593b5b568134885e46d704ea,0
+Dance Studio,Jefferson Park,4eb9d96e5c5c0e067d19e5a1,2
+Dance Studio,Jefferson Park,4fdc9611e4b090d3f5afaf2f,0
+Dance Studio,Jefferson Park,4ccf69132fd9b60c94697beb,4
+Dance Studio,Portage Park,4b8d47d8f964a520b2f132e3,0
+Dance Studio,Portage Park,57125651498e6a53ad2c2229,2
+Dance Studio,Portage Park,4fbee477e4b00e3f5b2ffd1d,0
+Dance Studio,Portage Park,4eeb9ff61081e430144bc217,0
+Dance Studio,Irving Park,4ee15f7d722e9d45c5018f59,0
+Dance Studio,Irving Park,4dea8cccd164ef597ceea441,1
+Dance Studio,Dunning,506ce901e4b0efc127210234,0
+Dance Studio,Montclare,4cdb172a930af04d30ac8897,5
+Dance Studio,Montclare,4cd9dbb26c25b60caaf1d24f,0
+Dance Studio,Montclare,4efa940bbe7bb478506d3cb3,0
+Dance Studio,Belmont Cragin,5036bbb0e4b0361aea8e926d,2
+Dance Studio,Belmont Cragin,4d99140097d06ea8625b430b,3
+Dance Studio,Hermosa,599f7565e1f2282097ba36c7,0
+Dance Studio,Hermosa,50491d26e4b0e55a96962c0d,1
+Dance Studio,Avondale,4f74caa8e4b0e7e85a0ecc6b,1
+Dance Studio,Avondale,4c76de6db4b4b60ce3e2250e,0
+Dance Studio,Humboldt Park,5002f6dfe4b0a74a530623fb,1
+Dance Studio,West Town,5cd719f7c62b49002c4d92e5,0
+Dance Studio,North Lawndale,4e936c5d5c5ce36b1956936d,0
+Dance Studio,Woodlawn,4fd3bdefe4b09c51fe6e8b47,0
+Dance Studio,Woodlawn,53d55524498e84ef91971638,2
+Dance Studio,Avalon Park,505dd7ece4b033df3a01a96c,2
+Dance Studio,Bridgeport,4d0aa8ba109d6dcba0608a8d,0
+Dance Studio,New City,4d83e2def1e56ea8b4fc698a,0
+Dance Studio,New City,4d858febf1e56ea8f1698d8a,0
+Dance Studio,Gage Park,51e3ef5e498e2b40f6aecc1f,2
+Dance Studio,Chicago Lawn,531e52ea498e985c7115ba25,2
+Dance Studio,Beverly,521ea00011d26870e86b2abe,3
+Dance Studio,Beverly,4faaea98e4b09016f6875e62,2
+Dance Studio,Beverly,5362c63c498e9a7babb95768,1
+Dance Studio,Washington Heights,5f5cfda9a154fa03f720e6b0,1
+Dance Studio,OHare,528f0c7e11d206c70ec93d83,1
+Dance Studio,OHare,5619252f498eb9e9e1a3ea36,0
+Dance Studio,OHare,561a730d498e92e0cb80cdcb,1
+Dance Studio,OHare,5e508ef5d7810e0008297bc0,0
+Dance Studio,OHare,50956b99e4b0a70262b01546,0
+Cuban,Albany Park,4ac92280f964a520cbbe20e3,134
+Coworking Space,West Ridge,4d881b05b799a35df7317c63,0
+Country Dance Club,West Town,556a3c20498e7a84d3dafc75,0
+Concert Hall,Edgewater,4f32d07619836c91c7fda162,0
+Concert Hall,Lincoln Square,4fb9c2cc0cd6ea3ca164a0f5,0
+Concert Hall,Uptown,4c6db5cca437224bbde82db1,0
+Concert Hall,Dunning,4f32c50319836c91c7f8941e,1
+Concert Hall,Edgewater,4f32bb8b19836c91c7f47675,0
+Concert Hall,Edgewater,563d916fcd1025403dd47060,1
+Concert Hall,Edgewater,4edaa6208231efe38fbd6cea,0
+Concert Hall,Edgewater,4fd8f392e4b00bfb26f780f6,0
+Concert Hall,East Garfield Park,508193f9e4b0ba1a30dfe218,0
+Concert Hall,Forest Glen,4ffe0b26e4b09d12b09d89d1,0
+Concert Hall,Near North Side,4c310bed66e40f47c574c48b,0
+Concert Hall,Near North Side,4cba3efe0180721ec72d9961,0
+Concert Hall,Near North Side,4fbc706ee4b0d314f19b911f,0
+Concert Hall,Near North Side,4d44c3f9bf61a1cdaf9b0cac,0
+Concert Hall,Near West Side,4ed1c8440e01f1a8818b96c8,2
+Concert Hall,Avondale,52e3a202498e9709b778802f,0
+Concert Hall,Jefferson Park,4deffb24ae6066d602d3d1f8,47
+Concert Hall,Jefferson Park,51ccee5e498e634e32f4d4b8,1
+Concert Hall,Lake View,4c782120bd346dcb0416f1ef,24
+Concert Hall,Lincoln Square,5af74e6c598e64002cc835ca,0
+Concert Hall,Lincoln Square,4d829d9840a7a35d50c8e5bd,0
+Concert Hall,Near West Side,4fb03d4be4b05b8b56892ee4,0
+Concert Hall,Logan Square,5781df90498e010cad07b894,2
+Concert Hall,Logan Square,40e20280f964a520e3091fe3,31
+Concert Hall,Loop,4adfca6df964a520777d21e3,526
+Concert Hall,Rogers Park,5341c48c11d232c62c4a13cb,0
+Concert Hall,Uptown,4ec860f8e5fa232a764d49f9,9
+Concert Hall,Near South Side,4ed14bbb0e01f1a880e71a65,0
+Concert Hall,North Lawndale,4e760738d1643f93b22dd2d9,0
+Concert Hall,West Ridge,4eed286046907303beba0a76,0
+Concert Hall,Ashburn,5a70ff2ff0b490617cd791e4,34
+Concert Hall,Lincoln Square,4ed9a10c46907c1b41c2a499,0
+Concert Hall,Rogers Park,565f7ea6498ed654af0fa748,0
+Concert Hall,Uptown,4dbc1ec9cda109aa6c9233fa,0
+Concert Hall,Uptown,4e4b260b52b1119aaa6ae28b,0
+Concert Hall,Austin,50b29e00e4b06cad40e871e2,0
+Concert Hall,Douglas,51338391e4b0dc201653c6e3,0
+Concert Hall,Uptown,4f32cad319836c91c7fb2c0d,0
+Concert Hall,Uptown,4f5662e8e4b084fcb115ade6,2
+Concert Hall,Lake View,51e16f23498efea941ec4b8c,0
+Concert Hall,Near West Side,4f32cfda19836c91c7fd5c4e,0
+Concert Hall,Rogers Park,4d98d01edaec224bbf0d523e,0
+Concert Hall,Norwood Park,4e923c1c9adf18f8826f8a65,0
+Concert Hall,North Park,4eaca892722eefae84225d02,0
+Concert Hall,North Park,5305548911d2d1eb108e46b8,0
+Concert Hall,Irving Park,4ebefd4877c885a64e16b1bc,1
+Concert Hall,Irving Park,4df17b9cd4c01ff6b2e3d91c,0
+Concert Hall,Montclare,4fb48b10e4b067982c700041,0
+Concert Hall,Logan Square,556a6dd5498ea805f8e20299,1
+Concert Hall,Grand Boulevard,4d24abf9daa93704c387c781,0
+Concert Hall,Kenwood,51229d5ce4b0e474d8d664cd,0
+Concert Hall,Hyde Park,504412dd222f63cf8739b2eb,3
+Concert Hall,West Pullman,4f32c0f019836c91c7f6cef7,0
+Concert Hall,Brighton Park,516c9a20e4b09ef13b2befba,3
+Concert Hall,Brighton Park,512027f6e4b0d2f617893412,2
+Concert Hall,Gage Park,5011ebf3e4b0ad6ab1a8a72a,2
+Concert Hall,Chicago Lawn,505e4258e4b0c1f8b70d82d7,0
+Concert Hall,Ashburn,57eb281d498e700182fbf629,0
+Concert Hall,OHare,4fd3d19ae4b0d6a97d3ae033,0
+Concert Hall,OHare,4effeaa10e01089c55bf666e,1
+Community Center,Rogers Park,5c562b7c9cadd900399d0fd6,2
+Comedy Club,Edgewater,4fd01b6ce4b0ed39b57a1f43,0
+Comedy Club,Belmont Cragin,4b887a92f964a520e5fa31e3,45
+Comedy Club,Belmont Cragin,4c5a1a5a2091a593c2bd5ed0,0
+Comedy Club,Belmont Cragin,4fa5f8d0e4b098f42ba5182c,0
+Comedy Club,Belmont Cragin,4bdbaa942a3a0f47ed59b0b6,0
+Comedy Club,Lincoln Square,522dd823498edbef4e3e4f26,1
+Comedy Club,Brighton Park,4ea0d42f6da1455cabb18191,0
+Comedy Club,Logan Square,545a6332498e7c33c356c73b,0
+Comedy Club,Uptown,56d37b36498e20aecd8077ee,2
+Comedy Club,Uptown,5049626be4b09f8264968856,0
+Comedy Club,Armour Square,5e213f54d7da760008020b2e,0
+Comedy Club,Ashburn,501a02bfe4b04620d5ce2be5,0
+Comedy Club,Edgewater,4bae935ff964a5207dc23be3,0
+Comedy Club,Near North Side,53d0613d498e75a11268b07c,180
+Comedy Club,Lake View,4d2a67e8ebacb1f7ac700350,3
+Comedy Club,Lake View,4d45ec142e326ea886d8f2a6,0
+Comedy Club,Lake View,5132cc1ce4b0a08cd493a3c0,7
+Comedy Club,Lake View,51566748e4b065500c5461e3,0
+Comedy Club,Lower West Side,4c8c66ebf87e224b3efb3405,0
+Comedy Club,Humboldt Park,523677fa11d2cb48e3aa337c,0
+Comedy Club,Kenwood,4ddfa062b0fbefa198c93809,0
+Comedy Club,Kenwood,4a8f47acf964a520b11420e3,1
+Comedy Club,Kenwood,4e00cb23c65b896d116b76e2,127
+Comedy Club,Irving Park,4fa5ad8be4b09571df60dea6,0
+Comedy Club,Logan Square,4ff2018de4b04447174aa1bb,1
+Comedy Club,Lincoln Park,4f067a69d3e3a2153a4408e4,0
+Comedy Club,Lincoln Square,51e44009498e56b7c217b319,0
+Comedy Club,Rogers Park,4fe52185e4b02e42938b2ed2,0
+Comedy Club,Montclare,4d759886497fa143407cd225,0
+Comedy Club,Mount Greenwood,4d0c2ee995c1a1cd9ce2fafe,0
+Comedy Club,Lake View,4b8728fbf964a520e8b331e3,1
+Comedy Club,Lake View,4ad3de36f964a520a9e620e3,0
+Comedy Club,West Town,55ab0e10498e3f6ad0f5d4a2,4
+Comedy Club,Albany Park,4c830ab4d34ca143ea823280,0
+Comedy Club,North Center,5178884b498ee6e7bb0b2ce8,0
+Comedy Club,Ashburn,4efb86d79a52109188c0f06f,0
+Comedy Club,Lake View,4e9e53e661afec1907c2e6cb,0
+Comedy Club,Lake View,51d5e892498ea5b108815986,0
+Comedy Club,Lincoln Square,4f8949a0e4b055d22fcc165a,1
+Comedy Club,Lincoln Park,508c542be4b0772b58d628fc,0
+Comedy Club,Jefferson Park,4cf83c26de096dcbad078779,0
+Comedy Club,Montclare,4fb48a84e4b03dfe92918ae2,0
+Comedy Club,Hermosa,4ee46cb3f790897ed068d45b,0
+Comedy Club,Logan Square,5124d68972dae978e62ce626,0
+Comedy Club,Logan Square,4de1b1712271bfb8448ae92b,0
+Comedy Club,Humboldt Park,4c53a2e572cf0f47ef132ed3,0
+Comedy Club,Grand Boulevard,4e015d8752b1ac66aaca2488,0
+Comedy Club,Calumet Heights,4e8db6cd77c8aa87071db534,0
+Comedy Club,Calumet Heights,514d2960e4b0be82f6a02b86,0
+Comedy Club,Brighton Park,4e4d9a66a80997aa8a1fc4ef,0
+Comedy Club,New City,40b28c80f964a52059fc1ee3,810
+Comedy Club,New City,40b28c80f964a520d8fb1ee3,80
+Comedy Club,Beverly,52606bdc498e0aa48a3712f0,0
+Circus,Logan Square,58ba000b4988da5d5adeef38,4
+Circus,Logan Square,4f53b45ce4b07de37cf28378,0
+Circus,Uptown,5439a90d498e1623997f9d7b,0
+Circus,Avondale,545c2c10498e2a6ea3d1e299,0
+Circus,Near South Side,5ce49efcb9b37b002c1baa24,9
+Circus,Jefferson Park,53473ac6498e84348c3a529c,0
+Circus,Logan Square,538fc3dc498e57a5dbfc502f,0
+Circus,South Lawndale,5037aa06e4b092ff1208b231,1
+Cineplex,Uptown,4ea23af377c8d0ce5dde674d,0
+Cineplex,Clearing,4c6d5ce4a437224bdcca2cb1,0
+Cineplex,Near South Side,4b464ee1f964a5202a1d26e3,1151
+Cineplex,Near South Side,518ac48f50190e829e69b21f,0
+Cineplex,Near South Side,4fcff8ebe4b076722eb11231,0
+Cineplex,Douglas,4a1c43d5f964a520307b1fe3,634
+Cineplex,Douglas,49d814e4f964a5209e5d1fe3,1179
+Cineplex,South Shore,4d7c26a8cf3f3704fc6a4b40,0
+Cineplex,Lincoln Square,559f15bd498e3c5319cffdca,0
+Cineplex,West Town,4b529381f964a520d78227e3,0
+Cineplex,Belmont Cragin,50fc554be4b0aa46baba49cf,2
+Cineplex,Avondale,4be4741ecf200f473ffc113c,225
+Cineplex,Logan Square,532b7ddb498e55875747b0a5,0
+Cineplex,Fuller Park,4dbcc56a6a23e294ba37be8c,0
+Cineplex,Woodlawn,4b5b95eef964a520010929e3,5
+Cineplex,East Side,4f4860e1e4b0e7e90e9da7b4,0
+Cineplex,West Pullman,50d51ca1e4b047bbfb034c33,0
+Cineplex,Ashburn,54724ffd498e15d30bc21143,0
+Cineplex,OHare,501df3d5e4b0f873f861dfde,1
+Church,South Lawndale,504537fcfe70794038e40808,1
+Church,West Garfield Park,4e7628d71838f9188a2927e2,2
+Casino,Albany Park,4ecd5925be7b9eecdc7ca79f,1
+Casino,Lake View,4c5671466418a593b92e7d0e,0
+Casino,Belmont Cragin,50945530e4b0e52fa31c7fac,2
+Casino,Uptown,4f2f211de4b050b64af3ed5d,0
+Casino,Uptown,513eaacfe4b02ed350105f99,0
+Casino,Edgewater,4fe35b41e4b0820995608d9c,0
+Casino,Edison Park,4f91d221e4b03439aa73df14,0
+Casino,Avondale,4e44443e2271bdbcf6720b58,0
+Casino,Loop,4f25e514e4b0e12083250de0,2
+Casino,Rogers Park,4d3261e35c2db60c36b4c16c,0
+Casino,North Center,4d096cacddb8f04d9f9a2eaa,0
+Casino,Lincoln Park,4d0c6ef63bbaa143472636da,0
+Casino,Lincoln Park,5295798811d248484edc4b7f,0
+Casino,North Park,4ea024b98b816206ba01b8e5,0
+Casino,Montclare,569c02c3498eb005fd024e33,0
+Casino,Avondale,5021b186e4b0821d75d7ee9f,0
+Casino,Avondale,52f2ea87498e0e624f60c762,0
+Casino,Avondale,58afe05b076be15eeb4229c4,0
+Casino,West Garfield Park,4f0e44c7e4b0d8e3c15d9c71,0
+Casino,Douglas,51375aade4b07b15e256f3de,0
+Casino,Grand Boulevard,51b01546498e89ee97c64776,0
+Casino,Pullman,4ddeba1e45dd033c3935914e,0
+Casino,Pullman,4cf06da56c29236a74a15fa2,2
+Casino,East Side,4f347d3ee4b013b943a70b21,0
+Casino,East Side,4f398765e4b01139d7f2f027,0
+Casino,Bridgeport,57d207c7498ef8be6d737e53,2
+Casino,OHare,57ae5607498efdacad174a65,0
+Café,Armour Square,4b86bd5cf964a5200d9a31e3,39
+Building,Albany Park,502333bff2e7ea95f524d245,0
+Building,Loop,4c00696adf6c0f4723608b22,8
+Building,West Town,4eac70b7b80323ec9207b638,0
+Building,Near North Side,4c335ff3a0ced13a5181166e,2
+Building,Edison Park,4d7790cf396f3704e61eaa38,0
+Building,Bridgeport,4c2e5cc6452620a1dab51b0f,1
+Bowling Alley,Uptown,5210626011d23c1abb227ec6,1
+Bowling Alley,Near South Side,4b54e9e2f964a520ddd227e3,18
+Bowling Alley,Douglas,4a6d20f7f964a52093d21fe3,194
+Bowling Alley,Douglas,4a02db83f964a52070711fe3,83
+Bowling Alley,Irving Park,5284d256498e3f72c28fe695,0
+Bowling Alley,Chicago Lawn,4d30d463dfba721ec3ccb97b,2
+Bowling Alley,Chicago Lawn,4c3fd97d3735be9a8b1916a4,7
+Bowling Alley,Ashburn,5e192d8d222880000782fdee,3
+Bowling Alley,Portage Park,4c23f053c11dc9b6c9b22424,2
+Bowling Alley,Uptown,4e4c606ab61c25886324e1d0,1
+Bowling Alley,Uptown,4e4c9e3bb61c25886327cda7,0
+Bowling Alley,Near North Side,54c6f06b498e9dd0bcf424c6,166
+Bowling Alley,Near West Side,4f32c25519836c91c7f7697d,2
+Bowling Alley,Norwood Park,4d3a1f02bf6d5481c4dcc9e1,1
+Bowling Alley,Jefferson Park,4fd3c6c0e4b0d14240443eab,2
+Bowling Alley,Montclare,4faedac1e4b09cca61b9a9e5,0
+Bowling Alley,Hermosa,50359412e4b0006c006170f6,0
+Bowling Alley,Avondale,4e3b776d1f6e844231cb3665,0
+Bowling Alley,Logan Square,40b28c80f964a520d4fe1ee3,63
+Bowling Alley,Logan Square,4f6d409de4b08d8da5abb3ff,0
+Bowling Alley,Calumet Heights,4e2a42e2c65bcaf400225a7b,10
+Bowling Alley,West Pullman,5001eeb5e4b034c293c85e21,0
+Bowling Alley,Archer Heights,4ef793beb8f72ebea871c1d6,1
+Bowling Alley,Ashburn,4bf450b5d2fbef3b9ec6a4c5,21
+Boutique,Lower West Side,5e5ad2bce86a8f00080b2187,0
+Bookstore,Lincoln Square,4c150745f1e0b71338ed34bc,0
+Boat / Ferry,Near South Side,5b391ed84a7aae002c20dccd,2
+Boat / Ferry,Lower West Side,4c5eed3499ff76b00950cf9e,0
+Boat / Ferry,Lake View,4be5ecaa2457a593733aac15,218
+Billiards,Avondale,500989afe4b04e64f0bfa52a,1
+Billiards,Jefferson Park,41253f00f964a5204c0c1fe3,14
+Billiards,Logan Square,4e1a59f4d4c062b044fadaa0,0
+Billiards,Montclare,4cf9d1fefeec6dcbbeff3b36,4
+Billiards,West Town,5fe3fc873850f77344d33b9f,0
+Billiards,Ashburn,51fb0e84498e8e88c1bf3f19,0
+Billiards,Portage Park,545adcb8498e91d604cfd4fa,0
+Billiards,Rogers Park,4aed0c97f964a520eecc21e3,32
+Billiards,Portage Park,4ba42816f964a520508738e3,8
+Billiards,Hermosa,5f8ef01d70fb76676304b7bd,0
+Billiards,South Chicago,51107c52e4b05285f4a24bc3,0
+Billiards,Edgewater,58a7bd228ae363643f43bdaf,0
+Billiards,Edgewater,4f9a82c1e4b0614491812338,0
+Beer Bar,Belmont Cragin,5851e8bc1174204265b83b13,41
+BBQ,Albany Park,50c92495e4b030cbb202e88a,472
+BBQ,Lower West Side,4ab56128f964a5204b7420e3,159
+BBQ,Lake View,5274396411d2b8a3b61414e1,213
+Basketball,Riverdale,5308015711d25d8abe31efe5,0
+Basketball,Burnside,4ea186789adff6343942a5a0,5
+Baseball,Lake View,51a904a4498ec70466d6ad22,1
+Baseball,Douglas,4dd80222e4cd37c893ba49b9,2
+Baseball,Douglas,4e45b4b5183849317e6c7391,3
+Baseball,Douglas,5b955c539411f2003987ed48,0
+Baseball,Douglas,534dcec1498e485c6dde030d,1
+Baseball,Douglas,4e471a20a809fb2fa3f552c8,1
+Baseball,Douglas,519d6a78498ee6fae4c19771,5
+Baseball,Douglas,4faefd84e4b0e047b23a45ef,1
+Baseball,Douglas,4e4c65ffd164e69742cbef06,0
+Baseball,Douglas,4da4e3d94df00f31b1719b8e,1
+Baseball,Douglas,4fa33d5ce4b04193745073d1,1
+Baseball,Douglas,4f7d0100e4b07b0956c66e52,0
+Baseball,Edgewater,4f6bb3e4e4b07a4bc2c6881f,0
+Baseball,Near West Side,5813a5c238faa541c1be05f7,1
+Baseball,Kenwood,4eee7f917ee5f453886e067a,0
+Baseball,Armour Square,40dcbc80f964a52080011fe3,1878
+Baseball,Armour Square,4dffe525d4c080823b63a145,3
+Baseball,Armour Square,59c7fce6efa82a170798d92c,6
+Baseball,Armour Square,5ca79ac90457b7002ca9f30c,0
+Baseball,Armour Square,57a66d87498ed8c9b220e4c9,0
+Baseball,Armour Square,5d4f4c44f9926100087e7b8b,0
+Baseball,Armour Square,4f8b0380e4b039b14681b087,2
+Baseball,Armour Square,4be5f5a9910020a190c5d314,0
+Baseball,Armour Square,4da8df53a86e771ea6fe2998,1
+Baseball,Armour Square,4e19f0d9483b5cfa49d9112b,1
+Baseball,Armour Square,519ab5b4498e9e7684bef2e5,0
+Baseball,Lake View,40dcbc80f964a52081011fe3,4289
+Baseball,Lake View,5059ff47e4b099330e6ab3db,2
+Baseball,Lake View,591f3bd135f9836382e4678d,5
+Baseball,Lincoln Square,53a9ee30498e3b4ebd9da5fe,16
+Baseball,Lincoln Park,51e08082498ed606e6a4c299,0
+Baseball,Lincoln Park,4eeed6fb46907303c098f095,0
+Baseball,Douglas,5ce1aee31de765002c44dabd,0
+Baseball,Douglas,5b060d1d0fe7a0002c8ccd20,0
+Baseball,Douglas,57c0bae1498e6202c49ef23d,0
+Baseball,Douglas,4e34af6418a82fdd656e64ca,11
+Baseball,Kenwood,51695686e4b03671915f85f6,2
+Baseball,Kenwood,4ddd5827227106a58b735928,0
+Baseball,Mount Greenwood,522cad0f11d22c9b569e3329,0
+Baseball,Edgewater,4f6bb85be4b05c9c293cdfd3,0
+Bar,Uptown,49ebe37bf964a5203d671fe3,3
+Bar,Edison Park,40b28c80f964a520c2fd1ee3,31
+Bar,West Town,4fa9890ce4b0e4bcefca3383,548
+Bar,Rogers Park,40b28c80f964a52055ff1ee3,16
+Automotive,Uptown,4ca57799a643b7135889e6a6,0
+Arts & Entertainment,Edgewater,4e693932a80996c0061b0f53,0
+Arts & Entertainment,Lincoln Square,4e46b811e4cd9d94fb25c2a4,0
+Arts & Entertainment,Brighton Park,4e74f32ae4cd325437178f5c,1
+Arts & Entertainment,Uptown,4e165885aeb7e76b4f1d98bc,0
+Arts & Entertainment,Burnside,4dd87ed4d4c05d5097055095,0
+Arts & Entertainment,Near North Side,4e5908f462e1de72f6eb7a72,0
+Arts & Entertainment,Chicago Lawn,4e7e54645503f6d28e72e5cf,0
+Arts & Entertainment,East Garfield Park,4e879887cc21da4b3ccd2034,1
+Arts & Entertainment,West Town,4dfe497c1495014331aabd60,22
+Arts & Entertainment,Edgewater,4e7247e8d4c0f5c149a43bd0,1
+Arts & Entertainment,East Garfield Park,4e6d0bbc483b1f5ebe58561b,0
+Arts & Entertainment,Near North Side,4e7266c3d22d1f56d8deef45,0
+Arts & Entertainment,Near North Side,4e13ad20e4cd473c9689a667,9
+Arts & Entertainment,Near North Side,4ddfd38fd164da4f23371574,6
+Arts & Entertainment,Humboldt Park,4e8c704b9a52f194de3b8e2b,0
+Arts & Entertainment,Irving Park,4e88cbba6c2564af067e67cf,1
+Arts & Entertainment,Avondale,4e49e36318a83cda37d5f025,0
+Arts & Entertainment,Logan Square,4e5bc921ae6099fc00e60170,0
+Arts & Entertainment,Ashburn,4dfcf7ccb0fb84d7ace21def,0
+Arts & Entertainment,Loop,4e504906aeb70f1284ada311,1
+Arts & Entertainment,Lincoln Square,4e30d696d22d33105980a6a8,0
+Arts & Entertainment,Albany Park,4e516fcffa7626401ec5f824,0
+Arts & Entertainment,Rogers Park,4dee6f5bd164f9a5c690bf28,0
+Arts & Entertainment,Douglas,4e76003e88775d593e3328aa,0
+Arts & Entertainment,Near West Side,4de91f5a7d8b02ee9f27725c,1
+Arts & Entertainment,Woodlawn,4e51a137aeb70f1284bfa420,16
+Arts & Entertainment,Rogers Park,4e0ea538fa76d62f444b61d7,11
+Arts & Entertainment,Uptown,4de83eb7227148fcea2bbfe4,0
+Arts & Entertainment,Lincoln Square,4e3c6bd31838cb1b82e261f3,0
+Arts & Entertainment,Forest Glen,4de5ac4a18389f0558685831,0
+Arts & Entertainment,North Park,4df548d3d1649c8a28e94f61,0
+Arts & Entertainment,Irving Park,4e8384cf9adf2d8426c16eea,0
+Arts & Entertainment,Montclare,4e92529c02d5dcbe6019c2b4,0
+Arts & Entertainment,Humboldt Park,4e45d52ed22d12b08bb9fd12,0
+Arts & Entertainment,North Lawndale,4e59976218a8c204750ed53e,0
+Arts & Entertainment,Woodlawn,4e45c66c18a8f9804cbff96c,0
+Arts & Entertainment,Chatham,4e963b9dd22dc0733120e064,0
+Arts & Entertainment,Burnside,4e7d4419be7ba523f2f01676,0
+Arts & Entertainment,East Side,4e475c6145dd2955e5a55a15,0
+Arts & Entertainment,Archer Heights,4e6d23bdd16456d6bd7aa6f4,0
+Arts & Entertainment,Auburn Gresham,4e068e0f6284d9ee92d05096,0
+Arts & Entertainment,Mount Greenwood,4e6beb6fb0fba3f50e175e73,0
+Arts & Entertainment,OHare,4e2618caae609b2f94e4301b,0
+Arts & Crafts,Armour Square,4bc3a8fdf8219c74b26eb610,3
+Arts,Armour Square,4f72277ae4b076ff14257c17,61
+Arts,Armour Square,4cd7b225d2f62d434ab57d6e,0
+Arts,Near South Side,4ac28603f964a520899920e3,11
+Art Studio,New City,59962e91f0b4907107cf9ed2,0
+Art Museum,Armour Square,4cf7d26ab9792d4329905695,6
+Art Museum,Armour Square,4b0d9361f964a5205e4b23e3,38
+Art Museum,Armour Square,572d3c9b498e16431d7898ca,0
+Art Museum,Douglas,53935075498eae4bad7d6159,1
+Art Museum,Douglas,427d5680f964a520a2211fe3,940
+Art Museum,Douglas,4cbf552800d837048045435c,0
+Art Museum,Jefferson Park,53a6202b498e270760820bc7,8
+Art Museum,Morgan Park,4c179b66f1c976b00c6ca272,32
+Art Museum,Loop,59e26f4b3b830717f71f0e50,2
+Art Museum,Loop,58dab7942f91cb72e82922ab,0
+Art Museum,Near South Side,4fa851a9e4b0208723b7beef,0
+Art Museum,Logan Square,49e9ef74f964a52011661fe3,3952
+Art Museum,Logan Square,59e26d82ccad6b067e239a9d,4
+Art Museum,Logan Square,52519b3c11d23ec091179133,2
+Art Museum,Logan Square,5c4a209442d8c2002ce083b5,1
+Art Museum,Logan Square,5251b86f11d2a446af00716b,0
+Art Museum,Logan Square,58d6bf43a19e902b17cb648e,6
+Art Museum,Logan Square,4c4b4c389c8d2d7fa3f6c56a,8
+Art Museum,Loop,4b017ad1f964a520bf4222e3,69
+Art Museum,West Town,4b3d7b10f964a520bb9425e3,12
+Art Museum,West Town,4c3cea26b36ac92838c40486,7
+Art Museum,Lincoln Park,4f529cdde4b050039dca6d62,5
+Art Museum,Chatham,4ee829e5b8f756f1d0c659c1,0
+Art Museum,New City,603bdb1a1f3ccb3d3da4a117,1
+Art Museum,New City,4b9c12c7f964a5204e4736e3,18
+Art Museum,Lower West Side,5132ad10e4b0e80cde21bf99,0
+Art Gallery,Albany Park,4e31e1811fc7db5da4db9f6f,0
+Art Gallery,Albany Park,4bae3554f964a52066923be3,1
+Art Gallery,Albany Park,4bff098bc30a2d7f8e6c101d,0
+Art Gallery,Albany Park,4bec51dcfd60a59361d43af1,0
+Art Gallery,Albany Park,4bd62b1c637ba59312d1f770,0
+Art Gallery,Albany Park,4bdd8ce3ea279c743b42e22b,0
+Art Gallery,Albany Park,4bdd8577ea279c749441e22b,0
+Art Gallery,Edgewater,4a5a7564f964a5205cba1fe3,1
+Art Gallery,Edgewater,4cfb0669d8468cfa7915f26b,0
+Art Gallery,Edgewater,4f5ba3d9e4b0090c09bd702c,0
+Art Gallery,Edgewater,5202e38f498e487239c47064,0
+Art Gallery,Edgewater,5117017fe4b0e74f5677e1e4,1
+Art Gallery,Edgewater,4f32cff319836c91c7fd67e1,0
+Art Gallery,Armour Square,4ebdd4a84690d2338876adfc,0
+Art Gallery,Armour Square,5155f42fe4b08bfe2669951b,0
+Art Gallery,Belmont Cragin,4b733f8ef964a52028a42de3,1
+Art Gallery,Beverly,4e70d2a4814dd2cb962537bd,1
+Art Gallery,Morgan Park,5765fb4a498e2c1f92b8819f,0
+Art Gallery,Lake View,510c8094e4b0eaff71b12881,2
+Art Gallery,Lake View,4c81a17847cc224bd2817e9f,0
+Art Gallery,Lincoln Square,556f8197498eb333ac1a4326,1
+Art Gallery,Lincoln Square,4afdb86af964a520282a22e3,4
+Art Gallery,Lincoln Square,53dc4845498e59584ba65d72,0
+Art Gallery,Lincoln Square,51244d27d63e8c99b752124f,0
+Art Gallery,Lincoln Square,4a79e25ff964a520e5e71fe3,0
+Art Gallery,Lincoln Square,50fb552be4b011742c8aed84,0
+Art Gallery,Lincoln Square,507a00c7e4b0c101c6a0c5aa,0
+Art Gallery,Belmont Cragin,4eb14e0a7ee59218bcba30b2,0
+Art Gallery,Bridgeport,517630c2e4b097338c0b6b70,0
+Art Gallery,Bridgeport,4f32c74619836c91c7f99952,0
+Art Gallery,Brighton Park,4c2fb73c7cc0c9b6fb41ec9a,1
+Art Gallery,Brighton Park,5414de06498eda81162e8b5c,2
+Art Gallery,Brighton Park,4e8491579a52d31854af1e8b,0
+Art Gallery,Douglas,5275a8c111d2251c8ed583e9,1
+Art Gallery,Logan Square,4e59a2ebd164da2b276684a0,4
+Art Gallery,Logan Square,4b6cd699f964a52017582ce3,21
+Art Gallery,Logan Square,50fa0c63e4b0d36c9ddfba29,3
+Art Gallery,Logan Square,59fe031e31ac6c76def2bb58,0
+Art Gallery,Logan Square,58d84d61fb549a3c5483a1db,0
+Art Gallery,Logan Square,51745178e4b0a0a1cae9ea4f,0
+Art Gallery,Logan Square,50b967d3e4b0f99bbde96945,0
+Art Gallery,Logan Square,4f6f9606e4b0ad1af67ee244,0
+Art Gallery,Logan Square,4bdceae5afe8c9b627895185,0
+Art Gallery,Uptown,526713dc498e289f4c5cea5e,1
+Art Gallery,Near North Side,4e650905ae60e9edf6da38e8,0
+Art Gallery,Near North Side,4bdd8bb9ea279c742642e22b,2
+Art Gallery,Near North Side,4b7c7dbef964a52097962fe3,0
+Art Gallery,Near North Side,4b9adf71f964a52039de35e3,3
+Art Gallery,Near North Side,4e13612031517911dffdc1dc,0
+Art Gallery,Near North Side,4bdd8645ea279c74a541e22b,2
+Art Gallery,Near North Side,4bdd8740ea279c74c241e22b,3
+Art Gallery,Near North Side,4e6a9ca318381ea1bdfbeeee,2
+Art Gallery,Near North Side,50005e16e4b056effc4f5e81,4
+Art Gallery,Near North Side,4f32c6f419836c91c7f97228,0
+Art Gallery,Near North Side,53333fc4498edae64bafd19c,0
+Art Gallery,Near North Side,4eb326c87ee51b8c53b15afa,0
+Art Gallery,Near North Side,4c59dd10f54376b0ec80848b,0
+Art Gallery,Near North Side,4f32c37519836c91c7f7e88d,0
+Art Gallery,Near South Side,4f541686e4b06025eab35c82,0
+Art Gallery,Armour Square,585b3c449526bc1971ab5c47,3
+Art Gallery,Armour Square,56dedf1ecd104221e0735819,1
+Art Gallery,Armour Square,5ba1b6eadb2aeb002c0cd2f1,0
+Art Gallery,Armour Square,4ce85d7ff1c6236a3a685ff0,1
+Art Gallery,Armour Square,4c7e8eb3d51ea1433301589f,0
+Art Gallery,Near South Side,5d114a122e173e00238608de,0
+Art Gallery,Near South Side,573692d1cd102f038c432f94,0
+Art Gallery,Near South Side,506c6c1de4b0744903b49c0a,0
+Art Gallery,Lower West Side,5db22c8279eb4d0008da0c27,2
+Art Gallery,Lower West Side,5c68c89efe3740002c07c176,0
+Art Gallery,Lower West Side,5c96d2b2a423620037a526cf,0
+Art Gallery,Lower West Side,4b9c30b1f964a520285336e3,0
+Art Gallery,Lower West Side,567f7054498ea7d851f254af,0
+Art Gallery,Lower West Side,51a6378b498e662a8ba62d13,0
+Art Gallery,Lower West Side,50ed8727c84c1076a41f8d78,0
+Art Gallery,Lower West Side,501d37f1f31c52e44eae6e48,0
+Art Gallery,Lower West Side,4b19b4baf964a52065e223e3,3
+Art Gallery,Riverdale,573a1bcc498e250cfc9908af,0
+Art Gallery,Riverdale,551f2496498e5621562863b7,1
+Art Gallery,Riverdale,572543cc498eb4304cd5e479,0
+Art Gallery,Riverdale,4c630611ec94a59334bf2aca,0
+Art Gallery,Riverdale,508c573ce4b057894596a675,1
+Art Gallery,Riverdale,4e09188cd4c03ae0b9d3c0f9,1
+Art Gallery,Riverdale,4c9d39de54c8a1cd37c8814b,4
+Art Gallery,Edgewater,4f56ba7fe4b0f52af6129bd4,0
+Art Gallery,Edgewater,506f3b5ae4b0bb95518f12b9,0
+Art Gallery,Edgewater,51ce3fc7498e6d3593dda39e,1
+Art Gallery,Edgewater,4e584629d4c0fccb89b68ea4,0
+Art Gallery,Edgewater,571d40c6498e465e325547a9,0
+Art Gallery,Edgewater,55f45aff498eff8966cff764,1
+Art Gallery,Edgewater,5a2b295ec0af5755f9878498,1
+Art Gallery,Edison Park,58d6e5f7fb549a68f60772e2,0
+Art Gallery,Forest Glen,4e206a7db0fbdf9ba79edf26,0
+Art Gallery,Douglas,4d1a63915acb721eb9e505b2,3
+Art Gallery,Douglas,4b842f8bf964a520392631e3,1
+Art Gallery,Near North Side,509a03c9e4b08f4d710bdb4f,0
+Art Gallery,Near North Side,4f689d68e4b0da7ca5d2b5cf,0
+Art Gallery,Near North Side,4b9bed3af964a520bd3636e3,2
+Art Gallery,Near North Side,5ca11295e1f228002cd6e77a,0
+Art Gallery,Near North Side,4ce5e465f865370468639fc4,0
+Art Gallery,Near North Side,51ae5865498e6b1976277957,0
+Art Gallery,Near West Side,504b6049e4b027ee7e97c99f,1
+Art Gallery,Near West Side,4ba42854f964a5206c8738e3,1
+Art Gallery,Near West Side,4b070bb7f964a52026f622e3,2
+Art Gallery,Near West Side,4cc21fdf1e596dcbfeacc067,0
+Art Gallery,Near West Side,4bfca1294cf820a1fe67ebf4,2
+Art Gallery,Near West Side,4b6df195f964a520de9d2ce3,2
+Art Gallery,Near West Side,53a58a3b498e56d9916c1a09,1
+Art Gallery,Near West Side,43695300f964a52089291fe3,1
+Art Gallery,Near West Side,51d87c60498ea2ccef43d8b9,0
+Art Gallery,Near West Side,4c1d2f568b3aa5935a299a5f,0
+Art Gallery,Near West Side,4e8494708b81aeeb0ea2da8f,0
+Art Gallery,Near West Side,5158efefe4b0b91a3e543482,0
+Art Gallery,Near West Side,53ed2bab498e9af7ab7664b6,0
+Art Gallery,Auburn Gresham,4d65e54a1658721efd63c204,0
+Art Gallery,Lower West Side,4da3a712540ea1cdc00b96de,0
+Art Gallery,Lower West Side,52883f4411d269ef0c88c2dd,0
+Art Gallery,Lower West Side,4e53d35d1838136747337a75,0
+Art Gallery,Lower West Side,51bd0d65498e5ddfc1c9d308,1
+Art Gallery,Lower West Side,4bad727af964a520ef513be3,0
+Art Gallery,Hermosa,4f594642e4b0519c5361e8a7,0
+Art Gallery,North Lawndale,4c744b0c66be6dcb7658bd0f,0
+Art Gallery,Hyde Park,5b70e108b9a5a8003936a35c,0
+Art Gallery,Hyde Park,4b8fdc94f964a520096633e3,33
+Art Gallery,Hyde Park,4e33056545dd6987a1748dad,0
+Art Gallery,Hyde Park,4f12287fe4b0044a240ae1ba,1
+Art Gallery,Hyde Park,4f32c5b419836c91c7f8e402,0
+Art Gallery,Irving Park,53b2467e498e8128514b10b8,1
+Art Gallery,Avondale,52431344498e9abec8c387a8,8
+Art Gallery,Avondale,4c617c2fdb219c74656e6873,0
+Art Gallery,Avondale,4e470894227128e1e8d42b0d,0
+Art Gallery,Avondale,5015c2c6e4b080ff6c053aa7,0
+Art Gallery,Jefferson Park,4ee911cd4901e2d61a431ab3,0
+Art Gallery,Hermosa,59bc810a7dc9e174b57a79f2,2
+Art Gallery,Kenwood,5931fbb9b23dfa3f13b3ea49,0
+Art Gallery,Kenwood,4f1a1d9ae4b0889e03eee24e,0
+Art Gallery,Kenwood,4f443d0ee4b0348bbb0baf90,0
+Art Gallery,Kenwood,4f5bb51de4b070e04729e7f4,0
+Art Gallery,Logan Square,510ae901e4b0335071c9d338,0
+Art Gallery,Logan Square,4ca53bff44a8224b0e59f83f,0
+Art Gallery,Logan Square,4fceb921e4b084f90d39e9fc,0
+Art Gallery,Douglas,4b10329bf964a520176b23e3,3
+Art Gallery,Lake View,4c12c80d77cea593dfb5cd60,3
+Art Gallery,Lincoln Park,4f9b7fee0cd6b5e52b09ce41,0
+Art Gallery,Lincoln Square,4b23d4daf964a520b55a24e3,11
+Art Gallery,Lincoln Square,5082eba6e4b00dbb9d768006,0
+Art Gallery,Logan Square,5931eff44c954c63dbf17f67,3
+Art Gallery,Logan Square,4bbfe492461576b069757932,0
+Art Gallery,Logan Square,51bc8197498e5ce3ecc31276,0
+Art Gallery,Logan Square,4f988462e4b06ffc4603201c,4
+Art Gallery,Logan Square,5813dcd238fa89b93062f786,0
+Art Gallery,Logan Square,53000152498eddabd8150afd,0
+Art Gallery,Logan Square,4be48cac477d9c74fb93e62d,14
+Art Gallery,Logan Square,505d210fe4b0b05c7ce046b2,0
+Art Gallery,Washington Heights,4dfa4395ae60f95f82260718,0
+Art Gallery,Loop,6029a7f114ce1900db9596de,0
+Art Gallery,Loop,6029a4b4476c2c7075963f16,0
+Art Gallery,Rogers Park,51a8f50a498e2f909b3ae77e,1
+Art Gallery,Rogers Park,4da0ce427aee54811169b3fe,0
+Art Gallery,Rogers Park,508f1dfee4b07c64de589c84,0
+Art Gallery,South Lawndale,53753fd9498e2b5b32cfe8e8,1
+Art Gallery,McKinley Park,5c045bb478782c002ce35281,1
+Art Gallery,Irving Park,4ffc9828e4b0401070e1eadc,53
+Art Gallery,Near South Side,4c5c6788fff99c74b89c36d3,2
+Art Gallery,Near South Side,4f71c371e4b005ed815ac5cd,0
+Art Gallery,Near South Side,4f3d5980e4b0d26d15e5d5a9,0
+Art Gallery,Near South Side,4f32cbe919836c91c7fba5ef,0
+Art Gallery,New City,56e9d757cd10c51041b85f69,0
+Art Gallery,New City,56b7aea1498eda858d2d84eb,0
+Art Gallery,North Center,4fa70ac5e4b017a5e12801f6,0
+Art Gallery,North Center,5c4a2a8715173e002cb08fe0,0
+Art Gallery,Lake View,4dbb4fe16e810768bf41bf48,0
+Art Gallery,Lake View,4dda8cefc65bee535afbe8fe,1
+Art Gallery,Lake View,4f32ce8d19836c91c7fcccad,0
+Art Gallery,Lake View,4f32c6f319836c91c7f971d4,0
+Art Gallery,Lake View,4bb7b943314e95215499479d,0
+Art Gallery,North Park,4eb9aba3e5e878e3c9238868,0
+Art Gallery,West Ridge,54b09eee498e92acf047ba0a,1
+Art Gallery,West Ridge,4bedc0804daaa5936b2a8f61,0
+Art Gallery,Logan Square,544bf7e5498e01e80ee29783,2
+Art Gallery,Logan Square,4c38f6c8dfb0e21e8ea3afa8,157
+Art Gallery,Lincoln Park,4d99f85d647d8cfacf6b143e,4
+Art Gallery,Ashburn,4cf872f87b44224b3353cf05,1
+Art Gallery,Ashburn,4c09cef07e3fc928dcb6f282,0
+Art Gallery,Avondale,4f35f49ce4b0fc67a7a6dcfd,2
+Art Gallery,Avondale,4bca4f41b6c49c7431509091,4
+Art Gallery,Avondale,4c1406fc82a3c9b6f397fcf8,1
+Art Gallery,Avondale,4e7d6b656da1b65a48a6ab9b,0
+Art Gallery,Avondale,4bedf9792c082d7fe6d72f42,0
+Art Gallery,Avondale,4f24b569e4b0acaff88c015e,1
+Art Gallery,Avondale,4d7d5dd46152b60c272da326,5
+Art Gallery,Avondale,4d0bf014e7e0224bdd8ac9cb,0
+Art Gallery,Avondale,4ded0bdd1f6edcd45144e3e3,0
+Art Gallery,Avondale,51d0e8b0498ef93fcf61510f,0
+Art Gallery,Portage Park,4df15e96b0fb807158b941e7,0
+Art Gallery,Near South Side,55f37e0d498e153d2aecf823,0
+Art Gallery,Near South Side,4d84fbb85ad3a093f9acdbfd,0
+Art Gallery,Loop,4da5e370cda1c55f75601ba2,0
+Art Gallery,Loop,4d4367e71911a093fc43cdd8,0
+Art Gallery,West Town,531a7235498ed5c0186f15ad,11
+Art Gallery,West Town,4283ee00f964a520e9221fe3,0
+Art Gallery,West Town,4debffeed4c00071b84bf101,0
+Art Gallery,West Town,4cddfe73db125481810e2ece,0
+Art Gallery,West Town,55287e34498ea8a3d74c2fbd,2
+Art Gallery,West Town,4d44b7771ed56dcb5b03b354,0
+Art Gallery,West Town,4eacbfbfbe7bd46a7b327ee4,0
+Art Gallery,Lincoln Park,5dec188fbef3c80009fd6fe1,0
+Art Gallery,Lincoln Park,4f67d477e4b053c51651cd3e,0
+Art Gallery,Lincoln Park,4f32d05919836c91c7fd94e0,0
+Art Gallery,Lincoln Park,4c144019a9c220a12856579d,0
+Art Gallery,Lincoln Park,4e3378fb52b11c7462239328,0
+Art Gallery,Lincoln Park,4d864b0161676dcb02d89ce4,0
+Art Gallery,Lincoln Park,4cfaee34c51fa1cdace4e32b,0
+Art Gallery,Lincoln Square,4fbd59cce4b0eec1082375c9,0
+Art Gallery,Lincoln Square,4c8ebe781664b1f7f502a32f,0
+Art Gallery,Lincoln Square,4ffef643e4b0d8fae1716aaf,0
+Art Gallery,Lincoln Square,4c42572dd7fad13a0b0d09da,0
+Art Gallery,Lincoln Square,4bc0dd72f8219c74da5cb210,0
+Art Gallery,Albany Park,53dc47fa498e07ef7df05987,0
+Art Gallery,West Town,4e06368681dc6d6d36a59761,0
+Art Gallery,West Town,523cead011d281eae88c3634,0
+Art Gallery,West Town,51201dcae4b0518ceaccddb0,0
+Art Gallery,Rogers Park,4aac44cdf964a520345d20e3,0
+Art Gallery,Rogers Park,4bc9f2cab6c49c74dd548f91,0
+Art Gallery,North Center,5c7b440e7b385f002c7feb16,0
+Art Gallery,North Center,4b23e857f964a520965c24e3,0
+Art Gallery,North Center,4b2852ebf964a5207f9224e3,0
+Art Gallery,North Center,4c00557fca1920a1c944ee81,0
+Art Gallery,North Center,4d9907de7cfc1456e97144f6,0
+Art Gallery,North Center,4bd78674e914a593bd8651fa,0
+Art Gallery,West Ridge,4cf1340d88de370421d1702b,0
+Art Gallery,Roseland,51073e68e4b0dcc7f02e48a6,1
+Art Gallery,Roseland,514a0f8be4b01d2b4ef9a2c9,1
+Art Gallery,Roseland,518a61eb498e53e9b1bb1a42,0
+Art Gallery,West Town,581d2c2c16dbbc451ba1c19e,0
+Art Gallery,West Town,4c4298b33735be9a865c1aa4,2
+Art Gallery,West Town,4cc38ece1e596dcb1b99cb67,0
+Art Gallery,Douglas,4ed6794c775ba3c06542db7c,0
+Art Gallery,Loop,4edc3b2f9adfe5cbe1658b0e,2
+Art Gallery,Douglas,50df5a56e4b092e9a1c2ef29,1
+Art Gallery,Douglas,4ae8d211f964a5209ab221e3,15
+Art Gallery,West Town,4e430f4a18387113cad381d1,0
+Art Gallery,West Town,5b6325d50d2be7003907923b,0
+Art Gallery,West Town,562e9b14498ea760875a4d40,1
+Art Gallery,West Town,5160c5f5e4b0605d2af65811,10
+Art Gallery,West Town,557ca027498ebf798eacc266,0
+Art Gallery,West Town,4d2c68b63c795481a2baf09b,0
+Art Gallery,West Town,50c50e87e4b0e12108f51687,0
+Art Gallery,Washington Park,51f31185498e86406559add6,1
+Art Gallery,Lincoln Park,60299c94476c2c7075864da7,0
+Art Gallery,West Garfield Park,576346b0498ec7181e64fcdf,0
+Art Gallery,West Garfield Park,4da22957d686b60c1630b428,0
+Art Gallery,West Lawn,4de1c4028877bcb6863565ab,0
+Art Gallery,Near West Side,4c5c62e9bfa59521e48c72ff,0
+Art Gallery,West Ridge,52c6689011d208544cff86dc,0
+Art Gallery,Ashburn,4e8495299a52d31854b0c1c5,0
+Art Gallery,Rogers Park,5409f336498e595908a65fde,1
+Art Gallery,Rogers Park,4d607e0f338bb60c295f29bd,0
+Art Gallery,Rogers Park,576df7ad498ef2e95f71e49d,1
+Art Gallery,Rogers Park,506896bbe4b0ca8b202f6e21,0
+Art Gallery,Rogers Park,4fefd513e4b030985549e9dc,0
+Art Gallery,Rogers Park,5074ace3e4b06a416ff0a820,0
+Art Gallery,Rogers Park,4be5fff9d4f7c9b699452620,2
+Art Gallery,Rogers Park,4e5f0d4362e1624313df5afb,0
+Art Gallery,Uptown,4c23eb13b7b8a5935eab3be8,3
+Art Gallery,Uptown,46e6b285f964a520c74a1fe3,56
+Art Gallery,Uptown,50c266f916482a05f60c82dd,0
+Art Gallery,Uptown,50cc9980e4b0bc9a55b17583,0
+Art Gallery,Lincoln Square,4f7b394ee4b0998be7d70e2c,0
+Art Gallery,Lincoln Square,571d410d498e8c9393b56519,0
+Art Gallery,Lincoln Square,4c103f4781e976b0baee0eeb,1
+Art Gallery,North Center,4f6ddccfe4b0e3b3bd5199fa,0
+Art Gallery,Lincoln Park,5bd496727b385f0039548fb4,7
+Art Gallery,Lincoln Park,4c3f8953ce54e21eb032081a,0
+Art Gallery,Lincoln Park,50023e0ee4b000090f6214e0,1
+Art Gallery,Lincoln Park,4d1ea245e56f6ea857e6661d,0
+Art Gallery,Edison Park,4f32b8bb19836c91c7f33acd,0
+Art Gallery,Edison Park,51647611e4b0eccd60751aac,0
+Art Gallery,Edison Park,4d307dbd4db13704c11bfc5d,0
+Art Gallery,Jefferson Park,54fbcaa7498ed0af6403a4f4,1
+Art Gallery,Jefferson Park,4eadbfc6e5fad025f843acf6,1
+Art Gallery,Jefferson Park,4fdc3adfe4b09d5417496166,0
+Art Gallery,North Park,4b5bd6ebf964a520281929e3,0
+Art Gallery,North Park,507a2332e4b036360b99bb58,0
+Art Gallery,North Park,511c07b2e4b082c0915c483a,0
+Art Gallery,North Park,4e91e990b8039b455875013c,0
+Art Gallery,North Park,4ed87ea5d3e346be3200c78e,0
+Art Gallery,North Park,4f4d76b4e4b05ebee4effca8,1
+Art Gallery,North Park,4c7d0ecc398176b0c7f61fa8,0
+Art Gallery,Portage Park,503839b3e4b027db4f81e46a,1
+Art Gallery,Irving Park,51c1fa31498e250504b63a3d,0
+Art Gallery,Irving Park,4e5aeedeaeb7d78d9f8b750f,0
+Art Gallery,Dunning,4c59a2b867ac0f4784b5044c,0
+Art Gallery,Montclare,4ed9ccc80e011b46edb18b94,0
+Art Gallery,Montclare,4fb48ad2e4b0106331de4fb2,1
+Art Gallery,Belmont Cragin,4fa24317e4b0b4fd55341643,0
+Art Gallery,Belmont Cragin,4ccf925306b5468860f3d594,0
+Art Gallery,Belmont Cragin,558f4c7d498ef41dacfb3dbc,1
+Art Gallery,Belmont Cragin,4de82740d4c0faa564289261,0
+Art Gallery,Hermosa,4d98818baf3d236a9b603dc7,0
+Art Gallery,Hermosa,4e818e8c722e51d270e0a320,1
+Art Gallery,Hermosa,4f29d96be4b07e41d8b52775,0
+Art Gallery,Hermosa,4dce1d9ed164679b8cf83e6a,0
+Art Gallery,Hermosa,56840744498e61d607fb3951,0
+Art Gallery,Logan Square,4fff64bbe4b0ac26d3d991c8,11
+Art Gallery,Logan Square,53b09fd8498e1475af10ded2,0
+Art Gallery,Logan Square,56e4cfdf498eb603a01082ae,0
+Art Gallery,Logan Square,53bc8409498e5114f564a4cd,1
+Art Gallery,Logan Square,4ef2bb009a52fadb33de2633,0
+Art Gallery,Humboldt Park,526d9d9c498e21ec4f13a6ab,2
+Art Gallery,Humboldt Park,598e394f2aff3159d8b1b896,0
+Art Gallery,Humboldt Park,58f816344420d845b2c038a2,0
+Art Gallery,Humboldt Park,566dcade498e6356a9397dc9,0
+Art Gallery,Humboldt Park,4bbbd9e8afe1b71391ce2f4b,0
+Art Gallery,Humboldt Park,4d588482de8f6dcb27870d91,0
+Art Gallery,Humboldt Park,5601d722498e90c308589736,0
+Art Gallery,Humboldt Park,4b80890ef964a520d97a30e3,1
+Art Gallery,Humboldt Park,4d6eac13f23d236a50c25743,0
+Art Gallery,West Town,4bddcf61e75c0f4791b2c503,3
+Art Gallery,West Town,56284226498efc9f1bf79acb,5
+Art Gallery,West Town,4e6ace8f1f6e1e74e4672c89,0
+Art Gallery,West Town,4bdb7e9b3904a59368cb4a9e,0
+Art Gallery,West Town,4b64f6b2f964a52095dc2ae3,0
+Art Gallery,Austin,4cf6b8101801a1435660ebd4,4
+Art Gallery,Austin,4db6b54f4df05e5aab0b6aa6,0
+Art Gallery,Austin,4f1c7fabe4b0d79043c55cb4,0
+Art Gallery,West Garfield Park,4cc75449fa03224bfcde3def,0
+Art Gallery,West Garfield Park,506f2819e4b036c6164e6aa5,0
+Art Gallery,West Garfield Park,5737c7e1498e0e61e551717e,1
+Art Gallery,West Garfield Park,51156201183f8abb663b52ac,2
+Art Gallery,East Garfield Park,51f184c0498e88460a48fac1,0
+Art Gallery,East Garfield Park,4d44cd264e5d37040036f093,0
+Art Gallery,East Garfield Park,4e8f6376b8f79f71de107378,1
+Art Gallery,East Garfield Park,4bee0132a40fc9287ce9820c,0
+Art Gallery,East Garfield Park,50947f3fe4b0d888965305b8,0
+Art Gallery,East Garfield Park,4bafb53cf964a520a2193ce3,0
+Art Gallery,East Garfield Park,4ec85cb093ad41338df4c5a3,0
+Art Gallery,East Garfield Park,4da4b5c70f578cfa5366d518,0
+Art Gallery,East Garfield Park,4d691f342acd6ea80aed35c0,1
+Art Gallery,East Garfield Park,5bc2475da2c00b002c095118,1
+Art Gallery,East Garfield Park,4e7681811495be51719a943c,0
+Art Gallery,East Garfield Park,4c0a909f02c9d13a62fa73dd,0
+Art Gallery,East Garfield Park,4cfc5db2dccef04df529c09c,0
+Art Gallery,East Garfield Park,56e373e6498efa4a8705236e,1
+Art Gallery,North Lawndale,525074e111d209611e0808c7,0
+Art Gallery,North Lawndale,52630987498e02e56b8b7108,0
+Art Gallery,North Lawndale,4f32bc4019836c91c7f4c5b5,1
+Art Gallery,South Lawndale,55a1e823498eca84c31c1192,3
+Art Gallery,South Lawndale,4bd3238dcaff95212315d4f0,0
+Art Gallery,Armour Square,528175b211d2f7b8db417920,1
+Art Gallery,Douglas,57882acc498e1faf1962cd79,0
+Art Gallery,Fuller Park,53876058498ec7db38babd3f,6
+Art Gallery,Fuller Park,53eeb3d0498eeb34246d0f41,16
+Art Gallery,Fuller Park,52bf738711d29120c4bceabb,0
+Art Gallery,Fuller Park,4d34e607c75a6ea8b2b223ae,1
+Art Gallery,Fuller Park,5053ccf1e4b0c21073f166cc,0
+Art Gallery,Grand Boulevard,4d865e8d50913704b6a8aa5b,0
+Art Gallery,Grand Boulevard,4d09a6efe6f8370440f15b87,0
+Art Gallery,Grand Boulevard,4d09a06533d6b60cfb6e9685,0
+Art Gallery,Kenwood,4bafe03ef964a52027283ce3,0
+Art Gallery,Washington Park,508ef321e889d022246bbb57,8
+Art Gallery,Washington Park,5c327f498afbe0002d14d4c6,0
+Art Gallery,Washington Park,50cf8d4be4b05e0e6378f195,0
+Art Gallery,Washington Park,4beee6fcb0b376b052cadab3,19
+Art Gallery,Woodlawn,50e4c1c4e4b0daeffce8adf5,1
+Art Gallery,Woodlawn,539f5c64498e35589faf86ce,0
+Art Gallery,Woodlawn,4f32ca0319836c91c7fad083,0
+Art Gallery,South Shore,53331dea498e8a06a2c8c721,1
+Art Gallery,Garfield Ridge,4f32c67219836c91c7f938b0,0
+Art Gallery,Brighton Park,4c952b46533aa0930493c645,1
+Art Gallery,Brighton Park,525afdef498e205d508dc40c,0
+Art Gallery,McKinley Park,4c02a865f423a593ba17cf16,0
+Art Gallery,McKinley Park,4d6dce80792bb60ce6005abe,1
+Art Gallery,Bridgeport,4f69116fe4b09de7923969d7,1
+Art Gallery,Bridgeport,4da5d88e4b2280544b65be6d,0
+Art Gallery,Bridgeport,4e1f05c9aeb7fe88ace2000d,1
+Art Gallery,Bridgeport,502ed93ce4b00d67ee566979,7
+Art Gallery,Bridgeport,56522242498e84bcd90d5298,0
+Art Gallery,Bridgeport,50732148e4b0d20e603bd697,0
+Art Gallery,Bridgeport,4bc1376bb492d13a58cfa560,0
+Art Gallery,Bridgeport,57589b5f498e688705c3d6f3,0
+Art Gallery,Bridgeport,5261ca8b11d230d5e6a191da,1
+Art Gallery,Bridgeport,4f989702e4b0065e73828210,0
+Art Gallery,Bridgeport,4e5280933151e600e91576c0,6
+Art Gallery,Bridgeport,513eb839e4b015ef9fac359e,1
+Art Gallery,Bridgeport,511d935fe4b0edbd08939135,0
+Art Gallery,Bridgeport,4e7e1a9f108148acc63975f6,1
+Art Gallery,Bridgeport,52505db611d215a37da61626,0
+Art Gallery,Bridgeport,4c02a7b2310fc9b64dc2c461,147
+Art Gallery,Bridgeport,5084302ce4b0e99d0c72bad1,24
+Art Gallery,Bridgeport,4bc1691db492d13a6e1fa660,65
+Art Gallery,New City,603d8be17fcc512a2161efde,0
+Art Gallery,New City,518db22a498e6f953597df9c,0
+Art Gallery,New City,4eb345179adf115272bdf48c,0
+Art Gallery,New City,4b79b9f3f964a520e10d2fe3,10
+Art Gallery,New City,4b1b0a74f964a520f5f623e3,9
+Art Gallery,Clearing,4c8d12e955fba0936e0f65ab,1
+Art Gallery,West Lawn,535ef862498e3c1475534202,1
+Art Gallery,West Lawn,4b048dd8f964a520235522e3,9
+Art Gallery,Beverly,4ee3e13661aff5a34145c268,3
+Art Gallery,Beverly,56f5e8efcd10b32203bad595,0
+Art Gallery,Beverly,4f32c32219836c91c7f7c46f,1
+Art Gallery,Beverly,4e94af809a521c5c7f34dd08,0
+Art Gallery,Beverly,56c108bf498ea4e62505e6eb,0
+Art Gallery,Beverly,4c17deb06a21c9b6782dc897,0
+Art Gallery,Beverly,56b55ace498e1798d2f164b0,0
+Art Gallery,OHare,4ec85fd8e5fa232a764bdc78,0
+Art Gallery,Edgewater,525af5e411d21669038295bc,0
+Art Gallery,Lower West Side,5c37f05ff5e9d7002cde2187,0
+Art Gallery,Lower West Side,4b9b00b5f964a520dcea35e3,1
+Art Gallery,Lower West Side,4cba31bedd41a35d33d4e6a0,0
+Art Gallery,Lower West Side,507ad0dae4b06fd3aa8911c3,2
+Art Gallery,Lower West Side,5c4b477f135b39002cd279ac,0
+Art Gallery,Lower West Side,4d2902384ab78eec41202f26,0
+Art Gallery,Lower West Side,53c0a2cf498e2e581dcb4829,1
+Art Gallery,Lower West Side,4c9052bc5fdf6dcb8bfa2f91,0
+Art Gallery,Lower West Side,4d810db1e6d7721ef9dc23c7,0
+Art Gallery,Lower West Side,4cba20fef50e224b37f3f1fb,0
+Art Gallery,Lower West Side,4fc057e1e4b099ce16baefaa,1
+Art Gallery,Lower West Side,544ebd16498ea8553f4bdef9,0
+Art Gallery,Lower West Side,4c63184fec94a5938def2aca,0
+Arcade,Albany Park,57609da3498e869a9896e24f,60
+Arcade,Belmont Cragin,595394a33ba76773801a9bb2,1
+Arcade,Lake View,5c6797ad829b0c002ca2dcc3,5
+Arcade,Uptown,518fba4a498e8b5938629554,0
+Arcade,Near North Side,523b712611d2c2dbd27d82dd,1
+Arcade,Near South Side,4df150d188772e1f814a6429,0
+Arcade,Clearing,516c6175e4b018e23b9807a4,0
+Arcade,Douglas,4dcbe757d16478749fad01a6,0
+Arcade,Edgewater,50aade45e4b0fe64f196e798,0
+Arcade,Edgewater,4ed44901cc216e1a53004054,0
+Arcade,Edgewater,4c0aae3c3c70b713730a285b,0
+Arcade,Douglas,556cdbec498e348960ef4aa5,44
+Arcade,Near North Side,4c3789912c8020a14d358900,0
+Arcade,Hegewisch,4e00bcf562843b639cf9465b,0
+Arcade,Hyde Park,4e3486b5ae60d86c3ab6467a,0
+Arcade,Irving Park,52e6d26a498e77ac796d60c3,0
+Arcade,Irving Park,4eaee12ff7906795c44d4a6b,0
+Arcade,Avondale,4cca02a1b7d9a143f1bef936,0
+Arcade,Lincoln Park,4c240a8bc11dc9b644ea2424,0
+Arcade,Lincoln Park,4e889e85be7b82f8ba143747,0
+Arcade,McKinley Park,4d92795e62ad54817a9d6d4b,0
+Arcade,Irving Park,50cbffebe4b05e62c3cc7851,0
+Arcade,Norwood Park,4db31c651e7248d135852b09,0
+Arcade,Portage Park,4c2b915972169521ee1c7f8f,0
+Arcade,Lincoln Park,53015818498ee35b40b8892b,207
+Arcade,Lincoln Square,4ca7492ed971b1f76a4d08e1,0
+Arcade,Lincoln Square,539df5c1498e1b0751ecb024,0
+Arcade,West Town,4ed2e905f5b9832add30e1c7,0
+Arcade,West Town,4fb49a12e4b0ccfe26a9b28f,0
+Arcade,Near West Side,54b9d080498e57a33713be10,1
+Arcade,Uptown,56ad73d7498ecac566755f23,20
+Arcade,West Elsdon,4d43a2cf0349224bd2cdf14e,0
+Arcade,West Lawn,584f450be03e57389e70d695,5
+Arcade,West Town,4f0a2f32e4b0803b6aa02d00,0
+Arcade,Rogers Park,4f18764ae4b0fc8453741998,0
+Arcade,Rogers Park,4adb836cf964a520742821e3,0
+Arcade,Uptown,5d460885caedea0008b3eeef,1
+Arcade,Near North Side,59f78ba5628c8321dfbdff3c,23
+Arcade,Norwood Park,524d5c5f11d2601f4c498d6e,0
+Arcade,Norwood Park,5286b66711d20a71861bc7d9,0
+Arcade,Jefferson Park,55d70fae498e1bf5bc99df97,0
+Arcade,Portage Park,5b419c7facb00b003908a533,0
+Arcade,Dunning,4c5f90f61e5cd13a0ff69fed,0
+Arcade,Dunning,4e75618e52b1c8e5197057be,0
+Arcade,Montclare,4f661148e4b03c270b45f1af,0
+Arcade,Hermosa,4f32be6019836c91c7f5b34c,3
+Arcade,Hermosa,4f57bce60039562d3a7c3591,2
+Arcade,Hermosa,4fe376ece4b00f2600f12a1a,0
+Arcade,Avondale,5d3219d2e43d930008d5e4c8,0
+Arcade,Logan Square,4f71eaaae4b005ed81834c21,0
+Arcade,Austin,51aa8e66498e9a481ce5ca6d,1
+Arcade,West Garfield Park,4f0a62c9e4b0aa2dc85f273f,0
+Arcade,North Lawndale,4c892cd897828cfa8623a2aa,0
+Arcade,North Lawndale,4f16470de4b067f674773d1a,0
+Arcade,Pullman,4f32cf9819836c91c7fd3e6d,0
+Arcade,East Side,4f2b5300e4b0d656b24b1bd8,0
+Arcade,Archer Heights,529dff8211d2d47f6a9f907d,0
+Arcade,McKinley Park,55bff038498e31cdd036c640,1
+Arcade,Ashburn,4ee16399b8f775b37344839b,0
+Arcade,Beverly,4f32c17e19836c91c7f70c0e,0
+Arcade,OHare,4e50562b2271a1bdc3ec63c6,0
+Aquarium,West Town,432b5c80f964a520eb271fe3,2319
+Aquarium,West Town,545d4a52498e0ffe0468e04a,6
+Aquarium,West Town,51fc0de3498e03687bdf57df,4
+Aquarium,West Town,503d13a7e4b0e1fcde62e76b,26
+Aquarium,West Town,4fe4b15ce4b09b6ef1496a38,21
+Aquarium,West Town,4e95aeb48b8105c15ea9d4be,25
+Aquarium,West Town,51ae4d9b498eabdea4eb4af8,15
+Aquarium,Rogers Park,50501651e4b052774b6c4277,0
+Aquarium,North Center,50109363e4b0dbaf8fde1e4d,18
+Aquarium,Jefferson Park,513a58d2e4b04f701adbe0a8,0
+Antiques,Riverdale,4b44a0bcf964a52023f825e3,89
+Antiques,Near North Side,4c98b791b6ee236a915aaaa7,18
+Antiques,Lincoln Square,4c2f738e66e40f4726e8c18b,0
+Amphitheater,West Town,4a2c9980f964a52074971fe3,250
+Amphitheater,West Ridge,4a461376f964a52085a81fe3,779
+American,Logan Square,4bd8415af645c9b6f373a7e0,0
+American,New City,56341843498e22d07cc626ca,50
+Academic Building,Loop,4b60d4fdf964a52034fc29e3,10
